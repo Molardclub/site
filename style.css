@@ -1,0 +1,172 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('font/DuctusMonoCalligraphic.ttf') format('truetype');
+}
+body {
+    font-size: 1.1em; 
+    font-family: 'MyFont';
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #FF66C4; 
+}
+h1 {
+    padding-top: 0.5em;
+    font-family: 'MyFont', serif;
+    font-size: 8em;
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+h2 {
+    padding: 0em;
+    margin-top: 0;
+    font-size: 2.5em;
+    font-family: 'MyFont';
+    margin-bottom: 0.7em;
+    text-align: center;
+}
+p {
+    text-align: center;
+    padding-left: 4em;
+    padding-right: 4em;
+    margin: 0;
+}
+ul {
+    list-style: none;
+    padding: 0; 
+    margin: 0; 
+    display: flex; 
+    justify-content: center; 
+}
+li {
+    margin-right: 5em; 
+    margin-left: 5em;
+}
+.container {
+    display: flex; 
+    justify-content: flex-end;
+}
+.bis_container {
+    display: flex; 
+    justify-content: center;
+}
+a {
+    color: black;
+    font-size: 1em;
+}
+.spacer {
+    height: 22em;
+}
+.moyenspace {
+    height: 6em;
+}
+.petitspace {
+    height: 1em;
+}
+.columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    box-sizing: border-box; 
+}
+.column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1em;
+}
+.left, .right {
+    font-family: 'MyFont';
+    font-size: 1em;
+    width: 100%; 
+    text-align: center; 
+}
+.left h2 {
+    font-size: 2em;
+}
+@media (max-width: 768px) {
+    body {
+        width: 100%;
+        margin: 0 auto;
+        align-items: center;
+    }
+
+    h1 {
+        font-size: 3.7em;
+        text-align: center;
+        padding-top: 2em;
+        padding-left: 1.5em;
+        padding-right: 1.5em;
+    }
+
+    h2 {
+        font-size: 1.2em;
+        text-align: center;
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+
+    p {
+        margin-bottom: 0.5em;
+    }
+
+    .columns {
+        grid-template-columns: 0.8fr;
+        justify-items: center;
+        justify-content: center;
+        display: block;
+    }
+
+    .column {
+        box-sizing: border-box; 
+        width: 95%;
+        display: block;
+        flex: 1;
+    }
+
+    .left, .right {
+        font-size: 0.7em;
+        text-align: center; 
+        margin-bottom: 1em;
+        display: block;
+        width: 100%;
+    }
+
+    .spacer {
+        height: 15em;
+    }
+
+    .moyenspace {
+        height: 6em;
+    }
+
+    .petitspace {
+        height: 0.5em;
+    }
+
+    a {
+        font-size: 0.9em;
+        text-align: center;
+    }
+
+    img {
+        width: 97%;
+        height: auto;
+        align-items: center;
+        display: block;
+    }
+
+    .bis_container {
+        justify-content: center; /* Centering on small screens */
+    }
+}
+
+footer {
+    background-color: #FF66C4; 
+    color: black;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
