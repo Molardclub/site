@@ -12,7 +12,7 @@ h1 {
     font-family: 'MyFont';
     font-size: 4em;
     margin-top: 0.5em;
-    margin-bottom: 0.8em;
+    margin-bottom: 1.5em;
     text-align: center;
 }
 .columns {
@@ -31,6 +31,19 @@ img {
     display: block;
     width: 60%;
     margin: 0 auto;
+}
+ul {
+    list-style: disc;
+    list-style-position: inside; /* Place les puces à l'intérieur */
+    text-align: center; /* Centre la liste */
+    padding: 0; /* Supprime le padding par défaut */
+}
+ul li::marker {
+    font-size: 4em; 
+}
+a {
+    color: black;
+    font-size: 2em;
 }
 .moyenspace {
     height: 4em;
