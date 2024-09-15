@@ -8,6 +8,12 @@ body {
     background-color: #FF66C4; 
     font-family: 'MyFont';
 }
+.ordi {
+    display: block;
+}
+.handy {
+    display: none;
+}
 h1 {
     font-family: 'MyFont';
     font-size: 4em;
@@ -67,18 +73,61 @@ a {
     height: 4em;
 }
 @media (max-width: 768px) {
-    h1 {
+    .ordi {
+        display: none;
+    }
+    .handy {
+        display: block;
+    }
+    .audessus {
+        position: absolute;
         font-size: 1.7em;
         margin-bottom: 1.5em;
+        top: 15%;
+        text-align: center;
+        left: 50%; 
+        transform: translate(-50%, -50%); 
+        font-weight: bold;
     }
     .columns {
-        grid-template-columns: 1fr;
-        gap: 1.5em;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
         padding: 0em;
+        height: 0vh;
+    }
+    .arrow-body {
+        position: absolute;
+        top: 30%; 
+        left: 50%;
+        transform: translateX(-50%);
+        width: 0.6em; 
+        height: 6em; 
+        background-color: black; 
+    }
+    .arrow-down {
+        position: absolute;
+        top: 39%; 
+        left: 50%;
+        transform: translateX(-50%);
+        width: 0;
+        height: 0;
+        border-left: 2em solid transparent;
+        border-right: 2em solid transparent;
+        border-top: 2em solid black; 
+        overflow: visible;
     }
     .column {
         margin: 0;
         padding: 0;
+    }
+    ul {
+        margin-bottom: 2em;
+    }
+    ul li::marker {
+        font-size: 3em; 
+    }
+    a {
+        font-size: 1.5em;
     }
     .moyenspace {
         height: 1.5em;
