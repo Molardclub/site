@@ -83,7 +83,7 @@ a {
         position: absolute;
         font-size: 1.7em;
         margin-bottom: 1.5em;
-        top: 15%;
+        top: 25%;
         text-align: center;
         left: 50%; 
         transform: translate(-50%, -50%); 
@@ -97,7 +97,7 @@ a {
     }
     .arrow-body {
         position: absolute;
-        top: 30%; 
+        top: 40%; 
         left: 50%;
         transform: translateX(-50%);
         width: 0.6em; 
@@ -106,7 +106,7 @@ a {
     }
     .arrow-down {
         position: absolute;
-        top: 39%; 
+        top: 49%; 
         left: 50%;
         transform: translateX(-50%);
         width: 0;
