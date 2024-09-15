@@ -60,7 +60,7 @@ footer {
         margin-left: 0;
     }
     p {
-        font-size: 0.2em;
+        font-size: 0.75em;
     }
     .columns {
         grid-template-columns: 1fr;
