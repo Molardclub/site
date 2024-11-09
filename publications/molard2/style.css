@@ -8,6 +8,9 @@ body {
     background-color: #FF66C4; 
     font-family: 'MyFont';
 }
+.handy {
+    display: none;
+}
 h1 {
     font-family: 'MyFont';
     font-size: 4em;
@@ -47,9 +50,7 @@ img {
 .moyenspace {
     height: 4em;
 }
-.handy {
-    display: none;
-}
+
 @media (max-width: 768px) {
     h1 {
         font-size: 1.7em;
