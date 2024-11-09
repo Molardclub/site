@@ -52,6 +52,9 @@ img {
         font-size: 1.7em;
         margin-bottom: 1.5em;
     }
+    .handy {
+        display: block;
+    }
     .columns {
         grid-template-columns: 1fr;
         gap: 1.5em;
