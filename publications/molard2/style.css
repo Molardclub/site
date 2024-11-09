@@ -27,6 +27,11 @@ h2 {
     grid-template-columns: repeat(4, 1fr);
     align-items: center;
 }
+.columns2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+}
 .column {
     display: flex;
     flex-direction: column;
