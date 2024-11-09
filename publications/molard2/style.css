@@ -8,6 +8,9 @@ body {
     background-color: #FF66C4; 
     font-family: 'MyFont';
 }
+.ordi {
+    display: block;
+}
 .handy {
     display: none;
 }
@@ -52,12 +55,15 @@ img {
 }
 
 @media (max-width: 768px) {
-    h1 {
-        font-size: 1.7em;
-        margin-bottom: 1.5em;
+    .ordi {
+        display: none;
     }
     .handy {
         display: block;
+    }
+    h1 {
+        font-size: 1.7em;
+        margin-bottom: 1.5em;
     }
     .columns {
         grid-template-columns: 1fr;
