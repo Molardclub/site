@@ -47,6 +47,9 @@ img {
 .moyenspace {
     height: 4em;
 }
+.handy {
+    display: none;
+}
 @media (max-width: 768px) {
     h1 {
         font-size: 1.7em;
