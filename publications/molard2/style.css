@@ -17,9 +17,8 @@ body {
 h1 {
     font-family: 'MyFont';
     font-size: 4em;
-    margin-top: 0.5em;
-    margin-bottom: 0em;
-    text-align: center;
+    margin: 0 auto; 
+    text-align: center; 
 }
 h2 {
     font-family: 'MyFont';
@@ -44,6 +43,30 @@ h2 {
     justify-content: center;
     align-items: center;
     box-sizing: border-box;
+}
+.petiteboite {
+    display: flex; 
+    align-items: center;
+    justify-content: center; 
+    width: 100%;
+    padding: 0 1em; 
+    box-sizing: border-box; 
+    position: relative; 
+    margin-top: 1em;
+}
+.boitebis {
+    flex-grow: 1; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; /* Assure l’alignement vertical */
+}
+.petiteboite a {
+    position: absolute; /* Permet de placer la flèche à gauche */
+    left: 1em; /* Distance depuis le bord gauche */
+}
+.imim {
+    width: 20%; 
+    height: auto; 
 }
 img {
     display: block;
