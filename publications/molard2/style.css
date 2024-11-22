@@ -105,6 +105,11 @@ img {
     .moyenspace {
         height: 1.5em;
     }
+    .petiteboite a {
+        position: absolute; 
+        left: 1em; 
+        top: 2.5em;
+    }  
     img {
         width: 80%;
         display: block;
