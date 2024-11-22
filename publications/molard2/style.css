@@ -58,11 +58,11 @@ h2 {
     flex-grow: 1; 
     display: flex; 
     justify-content: center; 
-    align-items: center; /* Assure l’alignement vertical */
+    align-items: center; 
 }
 .petiteboite a {
-    position: absolute; /* Permet de placer la flèche à gauche */
-    left: 1em; /* Distance depuis le bord gauche */
+    position: absolute; 
+    left: 1em;
 }
 .imim {
     width: 20%; 
