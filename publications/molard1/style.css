@@ -11,8 +11,7 @@ body {
 h1 {
     font-family: 'MyFont';
     font-size: 4em;
-    margin-top: 0.5em;
-    margin-bottom: 0em;
+    margin: 0 auto; 
     text-align: center;
 }
 h2 {
@@ -33,6 +32,30 @@ h2 {
     justify-content: center;
     align-items: center;
     box-sizing: border-box;
+}
+.petiteboite {
+    display: flex; 
+    align-items: center;
+    justify-content: center; 
+    width: 100%;
+    padding: 0 1em; 
+    box-sizing: border-box; 
+    position: relative; 
+    margin-top: 1em;
+}
+.boitebis {
+    flex-grow: 1; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+}
+.petiteboite a {
+    position: absolute; 
+    left: 1em; 
+}
+.imim {
+    width: 20%; 
+    height: auto; 
 }
 img {
     display: block;
