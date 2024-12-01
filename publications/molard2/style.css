@@ -86,8 +86,14 @@ img {
     }
     h1 {
         font-size: 1.7em;
-        margin-bottom: 1.5em;
+        margin-bottom: 0;
     }
+    h2 {
+    font-family: 'MyFont';
+    font-size: 2em;
+    margin-top: 0em;
+    margin-bottom: 0;
+}
     .columns {
         grid-template-columns: 1fr;
         gap: 1.5em;
