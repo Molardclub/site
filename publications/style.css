@@ -140,6 +140,9 @@ a {
     .moyenspace {
         height: 18em;
     }
+    .petitspace{
+        height: 2em;
+    }
     .imim{
         width: 15%;
         margin-top: 1em;
