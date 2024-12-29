@@ -26,7 +26,8 @@ h1 {
     display: grid;
     grid-template-columns: 1fr 3fr 1fr; /* Colonne gauche, texte au centre, colonne droite */
     height: 100vh; /* Hauteur totale de la page */
-    margin: 0;
+    margin-left: 0em;
+    margin-right: 0em;
 }
 
 .column1 img,
