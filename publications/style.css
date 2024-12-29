@@ -92,9 +92,9 @@ a {
     }
     .columns {
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: 1fr 1fr;
         padding: 0em;
-        height: 0vh;
+        height: auto;
     }
     .arrow-body {
         position: absolute;
