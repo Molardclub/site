@@ -18,7 +18,7 @@ h1 {
     font-family: 'MyFont';
     font-size: 4em;
     margin-top: 0.2em;
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
     text-align: center;
 }
 .columns {
@@ -73,8 +73,13 @@ a {
     height: 3.5em;
 }
 .petitspace {
-    height: 1em;
+    height: 0.75em;
 }
+
+footer {
+    z-index: 50;
+}
+
 @media (max-width: 768px) {
     .ordi {
         display: none;
