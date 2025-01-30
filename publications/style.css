@@ -76,6 +76,9 @@ a {
 .petitspace {
     height: 1em;
 }
+footer {
+    z-index: 50;
+}
 @media (max-width: 768px) {
     .ordi {
         display: none;
