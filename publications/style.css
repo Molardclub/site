@@ -7,6 +7,7 @@ body {
     padding: 0;
     background-color: #FF66C4; 
     font-family: 'MyFont';
+    line-height: 1.2; 
 }
 .ordi {
     display: block;
@@ -25,7 +26,8 @@ h1 {
     display: grid;
     grid-template-columns: 1fr 3fr 1fr; /* Colonne gauche, texte au centre, colonne droite */
     height: 100vh; /* Hauteur totale de la page */
-    margin: 0;
+    margin-left: 0em;
+    margin-right: 0em;
 }
 
 .column1 img,
@@ -45,7 +47,6 @@ h1 {
     z-index: 40;
     background-color: #FF66C4;
 }
-
 img {
     display: block;
     width: 100%;
