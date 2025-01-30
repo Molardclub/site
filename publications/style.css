@@ -28,7 +28,6 @@ h1 {
     height: 100vh; /* Hauteur totale de la page */
     margin-left: 0em;
     margin-right: 0em;
-
 }
 
 .column1 img,
@@ -45,8 +44,9 @@ h1 {
     padding: 1em; 
     box-sizing: border-box; 
     height: 100%; 
+    z-index: 40;
+    background-color: #FF66C4;
 }
-
 img {
     display: block;
     width: 100%;
