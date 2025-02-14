@@ -71,7 +71,7 @@ img {
 .imgspeciale{
     display: block;
     width: 30%;
-    margin: 0 auto;
+    margin: 0;
 }
 .moyenspace {
     height: 4em;
