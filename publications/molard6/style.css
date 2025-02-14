@@ -68,6 +68,11 @@ img {
     width: 45%;
     margin: 0 auto;
 }
+.imgspeciale{
+    display: block;
+    width: 30%;
+    margin: 0 auto;
+}
 .moyenspace {
     height: 4em;
 }
