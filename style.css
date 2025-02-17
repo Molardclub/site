@@ -90,7 +90,6 @@ a {
         margin: 0 auto;
         align-items: center;
     }
-
     h1 {
         font-size: 3.7em;
         text-align: center;
@@ -98,32 +97,27 @@ a {
         padding-left: 1.5em;
         padding-right: 1.5em;
     }
-
     h2 {
         font-size: 1.2em;
         text-align: center;
         padding-left: 1em;
         padding-right: 1em;
     }
-
     p {
         margin-bottom: 0.5em;
     }
-
     .columns {
         grid-template-columns: 0.8fr;
         justify-items: center;
         justify-content: center;
         display: block;
     }
-
     .column {
         box-sizing: border-box; 
         width: 95%;
         display: block;
         flex: 1;
     }
-
     .left, .right {
         font-size: 0.7em;
         text-align: center; 
@@ -131,31 +125,25 @@ a {
         display: block;
         width: 100%;
     }
-
     .spacer {
         height: 15em;
     }
-
     .moyenspace {
         height: 6em;
     }
-
     .petitspace {
         height: 0.5em;
     }
-
     a {
         font-size: 0.9em;
         text-align: center;
     }
-
     img {
         width: 97%;
         height: auto;
         align-items: center;
         display: block;
     }
-
     .bis_container {
         justify-content: center; /* Centering on small screens */
     }
