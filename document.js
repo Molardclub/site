@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log("Le document est prêt !");
+    console.log("Le document est prêt.");
 });
