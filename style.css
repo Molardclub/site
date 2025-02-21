@@ -25,6 +25,9 @@ h2 {
     margin-bottom: 0.7em;
     text-align: center;
 }
+.counter {
+    color: #FF66C4;
+}
 p {
     text-align: center;
     padding-left: 4em;
