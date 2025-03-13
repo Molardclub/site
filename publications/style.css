@@ -19,7 +19,7 @@ h1 {
     font-family: 'MyFont';
     font-size: 4em;
     margin-top: 0.2em;
-    margin-bottom: 1em;
+    margin-bottom: 1.5em;
     text-align: center;
 }
 .columns {
@@ -70,6 +70,7 @@ ul li::marker {
 a {
     color: black;
     font-size: 2em;
+    margin-top: 0.5em;
 }
 .moyenspace {
     height: 3.5em;
