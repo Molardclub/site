@@ -64,7 +64,8 @@ ul {
     padding: 0; /* Supprime le padding par défaut */
 }
 ul li::marker {
-    font-size: 4em; 
+    content: " ";
+    font-size: 2em; 
 }
 a {
     color: black;
@@ -133,6 +134,7 @@ footer {
         margin-bottom: 2em;
     }
     ul li::marker {
+        content: " ";
         font-size: 3em; 
     }
     a {
