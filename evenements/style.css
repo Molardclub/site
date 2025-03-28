@@ -60,6 +60,26 @@ a {
         margin: 0 auto;
         align-items: center;
     }
+    h1 {
+        font-size: 1.5em;
+    }
+    .container {
+        margin-left: 2em;
+        margin-right: 2em;
+        display: grid; 
+        grid-template-columns: 1fr;
+    }
+    .boite {
+        margin-left: 0;
+    }
+    img {
+        align-items: center;
+        width: 200px;
+        height: auto;
+    }
+    hr {
+        width: 75%;
+    }
 }
 
 footer {

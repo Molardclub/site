@@ -137,6 +137,10 @@ a {
     .petitspace {
         height: 0.5em;
     }
+    li {
+        margin-right: 1em; 
+        margin-left: 1em;
+    }
     a {
         font-size: 0.9em;
         text-align: center;
