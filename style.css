@@ -45,10 +45,6 @@ li {
     margin-right: 6em; 
     margin-left: 6em;
 }
-.container {
-    /*display: flex; 
-    justify-content: flex-end;*/
-}
 .bis_container {
     display: flex; 
     justify-content: center;
