@@ -42,8 +42,8 @@ ul {
     justify-content: center; 
 }
 li {
-    margin-right: 5em; 
-    margin-left: 5em;
+    margin-right: 4em; 
+    margin-left: 4em;
 }
 .container {
     display: flex; 
@@ -55,7 +55,7 @@ li {
 }
 a {
     color: black;
-    font-size: 1em;
+    font-size: 0.8em;
 }
 .spacer {
     height: 22em;

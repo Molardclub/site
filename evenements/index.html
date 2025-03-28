@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Voici les événements à suivre de Molard Club.">
+    <title>Nos événements</title>
+    <link rel="canonical" href="https://www.molardclub.fr/evenements/">
+    <link rel="icon" type="image/png" sizes="32x32" href="../logo.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <h1>Nos événements</h1>
+        <div class="container">
+            <img src="generale.jpg" onclick="closeLightbox(this)">
+            <div class="boite">
+                <h2>La générale</h2>
+                <p>Du lundi 7 juillet 2025
+                    <br>
+                    Au samedi 12 juillet 2025 
+                    <br><br>
+                    Résidence de création de Michel Fauxcul et PARTYSTAR
+                    <br><br>
+                    Ami·es depuis 10 ans, PARTYSTAR (hétérosexuelle désenchantée) et Michel Fauxcul (pédale désemparée) ont décidé de se marier, 
+                    pour célébrer cet anniversaire et dans une volonté révolutionnaire de questionner le mariage hétérosexuel. C’est ainsi que le 5 juillet 
+                    prochain, ils se diront Oui! pour s’unir via les liens (dé)sacralisés du Mariage. Iels souhaitent penser cette démarche révolutionnaire 
+                    jusqu’au bout : il paraît dès lors naturel d’également réinvestir la traditionnelle Lune de miel, et de se saisir de cet espace pour en faire 
+                    une bulle de réflexion et de création artistique et politique, qui sera un prolongement de leur cérémonie d’union déshétérosexuelle.
+                </p>
+                <a href="https://www.lagenerale.fr/fr/projet/partystar-et-michel-fauxcul-se-marient-et-partent-en-lune-de-miel"> Lien ↪ </a>
+            </div>
+        </div>
+        <br>    
+        <hr noshade>
+    </main>
+    <footer> &copy; 2025 Molard Club </footer>
+
+    <script>
+        function openLightbox(img) {
+            document.getElementById("lightbox-img").src = img.src;
+            document.getElementById("lightbox").classList.add("show");
+        }
+        function closeLightbox() {
+            document.getElementById("lightbox").classList.remove("show");
+        }
+    </script>
+
+</body>
+</html>
