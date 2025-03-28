@@ -29,6 +29,12 @@ h2 {
     font-size: 1.5em;
     font-family: 'PetiteFont';
 }
+h3 {
+    font-size: 1em;
+    font-weight: 400;
+    font-family: 'PetiteFont', serif;
+    text-align: justify;
+}
 .container {
     margin-top: 3em;
     margin-bottom: 1em;
@@ -62,6 +68,9 @@ a {
     }
     h1 {
         font-size: 1.5em;
+    }
+    h3 {
+        text-align: center;
     }
     .container {
         margin-left: 2em;
