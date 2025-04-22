@@ -106,15 +106,21 @@ a {
         margin-right: 2em;
         display: grid; 
         grid-template-columns: 1fr;
-        align-items: center;
+        justify-content: center;
     }
     .boite {
         margin-left: 0;
+        justify-content: center;
     }
     img {
         align-items: center;
         width: 200px;
         height: auto;
+        display: block;
+        margin: auto;
+    }
+    hr {
+        width: 75%;
     }
     .imim{
         width: 15%;
@@ -127,8 +133,9 @@ a {
         width: 75%;
     }
     .petiteboite a {
-        position: absolute; 
-        left: 1em; 
+        align-items: center;
+        left: 50%; 
+        transform: translateX(-50);
         top: 2.5em;
     } 
 }
