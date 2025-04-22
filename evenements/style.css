@@ -113,7 +113,6 @@ a {
         justify-content: center;
     }
     img {
-        align-items: center;
         width: 200px;
         height: auto;
         display: block;
@@ -123,11 +122,10 @@ a {
         width: 75%;
     }
     .imim{
-        width: 25%;
+        width: 20%;
         margin-top: 1em;
-        margin-bottom: 1em;
+        margin-bottom: 2em;
         height: auto;   
-        align-items: center;
     } 
     hr {
         width: 75%;
