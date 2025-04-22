@@ -133,9 +133,7 @@ a {
         width: 75%;
     }
     .petiteboite a {
-        align-items: center;
-        left: 50%; 
-        transform: translateX(-50);
+        justify-content: center;
         top: 2.5em;
     } 
 }
