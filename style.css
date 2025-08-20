@@ -83,6 +83,10 @@ a {
 .left h2 {
     font-size: 2em;
 }
+.ipz-iframe {
+    width: 100%;
+    border: 0;
+}
 @media (max-width: 768px) {
     body {
         width: 100%;
@@ -150,6 +154,11 @@ a {
     }
     .bis_container {
         justify-content: center; 
+    }
+    .ipz-iframe {
+        transform: scale(0.6); 
+        padding: 0;
+        margin: 0;
     }
 }
 
