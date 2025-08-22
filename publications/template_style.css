@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('../font/DuctusMonoCalligraphic.ttf') format('truetype');
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FF66C4; 
+    font-family: 'MyFont';
+}
+header.top {
+    display: flex;
+    align-items: center;
+    position: relative;
+    flex-direction: column;
+    margin: 1em;
+}
+header.top h1 {
+    flex-grow: 1;
+    text-align: center;
+    font-size: 4em;
+    margin: 0;
+}
+header.top h2 {
+    font-size: 2em;
+    margin-top: 0em;
+    margin-bottom: 2em;
+    text-align: center;
+}
+header.top .retour img {
+    width: 7%; 
+    position: absolute;
+    left: 10em;
+    top: 2em;
+}
+.columns {
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    justify-content: center;
+    margin-bottom: 4em;
+}
+img {
+    display: block;
+    width: 60%;
+    margin: 0 auto;
+}
+.imgspeciale{
+    width: 35%;
+}
+.imgspeciale2{
+    width: 50%;
+}
+
+@media (max-width: 768px) {
+    header.top {
+        flex-direction: column;
+    }
+    header.top h1 {
+        font-size: 1.7em;
+        margin-top: 1em;
+    }
+    header.top .retour {
+        order: 3;
+        margin: 1em 0;
+    }
+    header.top .retour img {
+        width: 15%;
+        position: static;
+    }
+    header.top h2 {
+        margin-bottom: 0;
+    }
+    .columns {
+        gap: 1.5em;
+        margin-bottom: 1.5em;
+        grid-template-columns: 1fr;
+    }
+    img {
+        width: 80%;
+    }
+    .imgspeciale{
+        width: 80%;
+    }
+    .imgspeciale2{
+        width: 80%;
+    }
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
