@@ -89,6 +89,9 @@ a {
     width: 25%; 
     height: auto; 
 }
+.space{
+    height: 0;
+}
 
 @media (max-width: 768px) {
     body {
@@ -140,6 +143,9 @@ a {
         justify-content: center;
         top: 2.5em;
     } 
+    .space{
+        height: 2em;
+    }
 }
 
 footer {
