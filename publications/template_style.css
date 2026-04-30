@@ -45,14 +45,13 @@ img {
     width: 60%;
     margin: 0 auto;
 }
-.imgspeciale{
+.petit{
     width: 35%;
 }
-.imgspeciale2{
+.moyen{
     width: 50%;
 }
-
-.imgspeciale3{
+.grand{
     width: 75%;
 }
 
@@ -83,13 +82,13 @@ img {
     img {
         width: 80%;
     }
-    .imgspeciale{
+    .petit{
         width: 80%;
     }
-    .imgspeciale2{
+    .moyen{
         width: 80%;
     }
-    .imgspeciale3{
+    .grand{
         width: 80%;
     }
 }
