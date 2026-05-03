@@ -52,10 +52,14 @@ input, label {
 
 @media (max-width: 768px) {
     body {
-        width: 100%;
+        width: 85%;
         margin: 0 auto;
         align-items: center;
         padding: 1em;
+    }
+
+    h1 {
+        font-size: 1.25em;
     }
 
     input {
@@ -63,7 +67,7 @@ input, label {
     }
 
     .search-container {
-        width: 100%;
+        width: 90%;
     }
 }
 
