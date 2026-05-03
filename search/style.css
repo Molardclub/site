@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('../font/DuctusMonoCalligraphic.ttf') format('truetype');
+}
+body {
+    font-size: 1.1em; 
+    font-family: 'MyFont';
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #FF66C4; 
+}
+
+h1{
+    text-align: center;
+}
+
+input {
+    width: 42em;
+    font-family: 'MyFont';
+}
+
+input, label {
+    margin: 0.4rem 0;
+}
+
+.search-container {
+    width: 42em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.recherche {
+    padding: 0;
+    margin: 1em 0;
+}
+
+.recherche a {
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.petitspace{
+    height: 4em;
+}
+
+@media (max-width: 768px) {s
+    body {
+        width: 100%;
+        margin: 0 auto;
+        align-items: center;
+        margin-left: 0.2em;
+    }
+}
+
+footer {
+    background-color: #FF66C4; 
+    color: black;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
