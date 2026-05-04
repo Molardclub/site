@@ -28,7 +28,7 @@ loadIndex().then(index => {
         card.href = item.file;
 
         card.innerHTML = `
-          <img src="${jpg}" alt="${item.title}">
+          <img class="petit" src="${jpg}" alt="${item.title}">
           <div class="caption">${item.title}</div>
         `;
 

@@ -52,6 +52,9 @@ input, label {
     text-align: center;
 }
 
+.petit{
+    width: 0.5em;
+}
 
 .petitspace {
     height: 4em;
