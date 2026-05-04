@@ -58,11 +58,12 @@ input, label {
 }
 
 @media (max-width: 768px) {
+
     body {
-        width: 85%;
-        margin: 0 auto;
-        align-items: center;
+        margin: 0;
         padding: 1em;
+        width: 100%;        /* ← FIX: do NOT shrink the body */
+        align-items: center;
     }
 
     h1 {
@@ -73,14 +74,18 @@ input, label {
         width: 100%;
     }
 
-    .gallery {
-        column-count: 1;
+    .search-container {
+        width: 100%;        /* ← ensures perfect centering */
+        max-width: 500px;   /* optional but looks good */
     }
 
-    .search-container {
-        width: 90%;
+    .gallery {
+        width: 100%;        /* ← FIX: full width on phone */
+        column-count: 1;    /* ← one column masonry */
+        column-gap: 1em;
     }
 }
+
 
 footer {
     background-color: #FF66C4;
