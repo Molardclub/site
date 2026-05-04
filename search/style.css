@@ -35,20 +35,19 @@ input, label {
     align-items: center;
 }
 
-.recherche {
-    padding: 0;
-    margin: 1em 0;
-}
-
-.recherche a {
-    color: black;
-    text-decoration: underline;
-    text-align: center;
-}
-
 .result-card img {
     width: 50%;
 }
+
+.gallery {
+    column-count: 3;
+    column-gap: 2vw;
+}
+.gallery img {
+    width: 100%;
+    margin-bottom: 2vw;
+}
+
 
 .petitspace {
     height: 4em;
