@@ -36,18 +36,18 @@ input, label {
 }
 
 .result-card img {
-    width: 50%;
+    width: 75%;
 }
 
 .gallery {
-    column-count: 3;
+    width: 84em;
+    column-count: 4;
     column-gap: 2vw;
 }
 .gallery img {
     width: 100%;
     margin-bottom: 2vw;
 }
-
 
 .petitspace {
     height: 4em;
