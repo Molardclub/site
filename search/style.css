@@ -64,7 +64,7 @@ input, label {
     body {
         margin: 0;
         padding: 1em;
-        width: 75%;      
+        width: 50%;      
         align-items: center;
     }
 
@@ -73,11 +73,11 @@ input, label {
     }
 
     input {
-        width: 75%;
+        width: 50%;
     }
 
     .search-container {
-        width: 75%;       
+        width: 50%;       
     }
 
     .gallery {
