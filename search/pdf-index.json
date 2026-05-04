@@ -48,7 +48,7 @@
         "tags": []
     },
     {
-        "title": "Félin Furieux Acte III",
+        "title": "Félin Furieux Acte III : Ainsi Partit Fauxcul Vers L’Antarctique",
         "author": "DJ Fauxcul",
         "file": "http://molardclub.fr/publications/molard19/Félin-Furieux-Acte-III_DJ-Fauxcul.pdf",
         "tags": []
@@ -78,7 +78,7 @@
         "tags": []
     },
     {
-        "title": "Ange-Playlist",
+        "title": "Ange I - Playlist",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard6/Ange---Playlist_Michel-Fauxcul.pdf",
         "tags": []
@@ -90,7 +90,7 @@
         "tags": []
     },
     {
-        "title": "Mme Snob, la critique d'art 1",
+        "title": "Mme Snob, la critique d'art, épisode 1",
         "author": "MW",
         "file": "http://molardclub.fr/publications/molard12/Mme-Snob,-la-critique-d'art-1_MW.pdf",
         "tags": []
@@ -102,13 +102,13 @@
         "tags": []
     },
     {
-        "title": "A t il pleuré",
+        "title": "A-t-il pleuré",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard12/A-t-il-pleuré_Michel-Fauxcul.pdf",
         "tags": []
     },
     {
-        "title": "Le kit de rentrée de Molard Club",
+        "title": "Le Kit de rentrée de Molard Club",
         "author": "Vilaine Charmeur",
         "file": "http://molardclub.fr/publications/molard12/Le-kit-de-rentrée-de-Molard-Club_Vilaine-Charmeur.pdf",
         "tags": []
@@ -126,7 +126,7 @@
         "tags": []
     },
     {
-        "title": "Ange II-Vidéo",
+        "title": "Ange II - Vidéo",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard7/Ange-II---Vidéo_Michel-Fauxcul.pdf",
         "tags": []
@@ -138,7 +138,7 @@
         "tags": []
     },
     {
-        "title": "Ce n'est pas l'homosexuel qui est pervers",
+        "title": "Ce n'est pas l'homosexuel qui est pervers mais la société dans laquelle il vit, tentative de traduction et fragments théoriques",
         "author": "BGDC",
         "file": "http://molardclub.fr/publications/molard7/Ce-n'est-pas-l'homosexuel-qui-est-pervers_BGDC.pdf",
         "tags": []
@@ -156,7 +156,7 @@
         "tags": []
     },
     {
-        "title": "Compte rendu du concert anniversaire de Tony Zola",
+        "title": "Le quinze octobre deux mille vingt cinq au badaboum, une icône est née - Compte-rendu du concert anniversaire de Tony Zola",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard13/Compte-rendu-du-concert-anniversaire-de-Tony-Zola_Michel-Fauxcul.pdf",
         "tags": []
@@ -168,7 +168,7 @@
         "tags": []
     },
     {
-        "title": "Les hétérosexuels veulent ma bite",
+        "title": "Les hétérosexuels veulent ma bite et je ne suis même pas trans !",
         "author": "BGDC",
         "file": "http://molardclub.fr/publications/molard13/Les-hétérosexuels-veulent-ma-bite_BGDC.pdf",
         "tags": []
@@ -237,7 +237,9 @@
         "title": "J'ai laissé des affaires traîner chez toi",
         "author": "Margaux Wiersch",
         "file": "http://molardclub.fr/publications/molard4/J'ai-laissé-des-affaires-traîner-chez-toi_Margaux-Wiersch.pdf",
-        "tags": []
+        "tags": [
+            "poster"
+        ]
     },
     {
         "title": "Pourquoi Gabriel Attal n'est pas homosexuel",
@@ -264,7 +266,7 @@
         "tags": []
     },
     {
-        "title": "PARTYSTAR et KetamineBoyfriend L’aparté",
+        "title": "PARTYSTAR & KetamineBoyfriend L’aparté",
         "author": "PARTYSTAR",
         "file": "http://molardclub.fr/publications/molard5/PARTYSTAR-et-KetamineBoyfriend-L’aparté_PARTYSTAR.pdf",
         "tags": []
@@ -324,7 +326,7 @@
         "tags": []
     },
     {
-        "title": "PI Pas intéressée, parle à ma main",
+        "title": "PI Pas intéressée, parle à ma main. Esthetique catcalling : cas de harcèlement de rue dans les clips musicaux",
         "author": "Tristana",
         "file": "http://molardclub.fr/publications/molard14/PI-Pas-intéressée,-parle-à-ma-main_Tristana.pdf",
         "tags": []
@@ -336,7 +338,7 @@
         "tags": []
     },
     {
-        "title": "Félin Furieux Acte II",
+        "title": "Félin Furieux Acte II : Pas Chassés Sur L’Autoroute Du Kiff ",
         "author": "DJ Fauxcul",
         "file": "http://molardclub.fr/publications/molard14/Félin-Furieux-Acte-II_DJ-Fauxcul.pdf",
         "tags": []
@@ -366,19 +368,13 @@
         "tags": []
     },
     {
-        "title": "notice",
-        "author": "ange_3",
-        "file": "http://molardclub.fr/publications/molard8/notice_ange_3.pdf",
-        "tags": []
-    },
-    {
         "title": "Un dieu jaloux",
         "author": "Clyde Louis-Joseph-Dogué",
         "file": "http://molardclub.fr/publications/molard8/Un-dieu-jaloux_Clyde-Louis---Joseph---Dogué.pdf",
         "tags": []
     },
     {
-        "title": "Ange 3-Notice",
+        "title": "Ange III - Notice",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard8/Ange-3---Notice_Michel-Fauxcul.pdf",
         "tags": []
@@ -450,7 +446,7 @@
         "tags": []
     },
     {
-        "title": "Love is stronger than death",
+        "title": "Love is stronger than death. De l’interdiction d’aimer, du choix de l’existence, de la beauté pédée. Lecture-fauxcul d’œuvres choisies",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard15/Love-is-stronger-than-death_Michel-Fauxcul.pdf",
         "tags": []
@@ -474,7 +470,7 @@
         "tags": []
     },
     {
-        "title": "Rivalité passionnée",
+        "title": "Rivalité passionnée. Ce que la romance fait aux femmes et aux gays",
         "author": "Kate B",
         "file": "http://molardclub.fr/publications/molard16/Rivalité-passionnée_Kate-B.pdf",
         "tags": []
@@ -486,7 +482,7 @@
         "tags": []
     },
     {
-        "title": "Longue litanie",
+        "title": "Longue litanie - Réflexion du silence et de ses boucles",
         "author": "PARTYSTAR",
         "file": "http://molardclub.fr/publications/molard16/Longue-litanie_PARTYSTAR.pdf",
         "tags": []
@@ -510,7 +506,7 @@
         "tags": []
     },
     {
-        "title": "co2urs, poème en prose",
+        "title": "Co2urs, poème en prose",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard2/co2urs,-poème-en-prose_Michel-Fauxcul.pdf",
         "tags": []
@@ -540,7 +536,7 @@
         "tags": []
     },
     {
-        "title": "L'histoire de Bobby et Janis 1",
+        "title": "L'histoire de Bobby et Janis Volume 1",
         "author": "PARTYSTAR",
         "file": "http://molardclub.fr/publications/molard3/L'histoire-de-Bobby-et-Janis-1_PARTYSTAR.pdf",
         "tags": []
@@ -552,7 +548,7 @@
         "tags": []
     },
     {
-        "title": "Twilf-le triangle de la beauté masculine",
+        "title": "Twilf - le triangle de la beauté masculine",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard3/Twilf---le-triangle-de-la-beauté-masculine_Michel-Fauxcul.pdf",
         "tags": []
