@@ -46,6 +46,8 @@ input, label {
     column-count: 4;
     column-gap: 2vw;
     margin: 0 auto;
+    padding: 0;          /* ← remove default ul padding */
+    list-style: none;
 }
 
 .gallery img {
@@ -76,11 +78,11 @@ input, label {
 
     .search-container {
         width: 100%;        /* ← ensures perfect centering */
-        max-width: 400px;   /* optional but looks good */
+        max-width: 500px;   /* optional but looks good */
     }
 
     .gallery {
-        width: 90%;        /* ← FIX: full width on phone */
+        width: 100%;        /* ← FIX: full width on phone */
         column-count: 1;    /* ← one column masonry */
         column-gap: 1em;
     }
