@@ -76,11 +76,11 @@ input, label {
 
     .search-container {
         width: 100%;        /* ← ensures perfect centering */
-        max-width: 500px;   /* optional but looks good */
+        max-width: 400px;   /* optional but looks good */
     }
 
     .gallery {
-        width: 100%;        /* ← FIX: full width on phone */
+        width: 90%;        /* ← FIX: full width on phone */
         column-count: 1;    /* ← one column masonry */
         column-gap: 1em;
     }
