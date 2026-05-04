@@ -73,16 +73,16 @@ input, label {
     }
 
     input {
-        width: 100%;
+        width: 75%;
     }
 
     .search-container {
-        width: 100%;        /* ← ensures perfect centering */
+        width: 75%;        /* ← ensures perfect centering */
         max-width: 500px;   /* optional but looks good */
     }
 
     .gallery {
-        width: 100%;        /* ← FIX: full width on phone */
+        width: 75%;        /* ← FIX: full width on phone */
         column-count: 1;    /* ← one column masonry */
         column-gap: 1em;
     }
