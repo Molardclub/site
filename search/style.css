@@ -46,6 +46,13 @@ input, label {
     text-align: center;
 }
 
+.result-card .caption {
+    margin-top: 6px;
+    font-size: 0.9rem;
+    text-align: center;
+}
+
+
 .petitspace {
     height: 4em;
 }

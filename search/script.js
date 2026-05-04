@@ -18,9 +18,21 @@ loadIndex().then(index => {
         item.tags.some(t => t.toLowerCase().includes(q))
       )
       .forEach(item => {
-        const li = document.createElement('li');
-        li.innerHTML = `<a href="${item.file}">${item.title}</a>`;
-        results.appendChild(li);
+
+        // Build JPG thumbnail path
+        const jpg = item.file.replace('.pdf', '.jpg');
+
+        // Create card
+        const card = document.createElement('a');
+        card.className = 'result-card';
+        card.href = item.file;
+
+        card.innerHTML = `
+          <img src="${jpg}" alt="${item.title}">
+          <div class="caption">${item.title}</div>
+        `;
+
+        results.appendChild(card);
       });
   });
 });
