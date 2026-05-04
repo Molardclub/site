@@ -42,7 +42,7 @@ input, label {
 }
 
 .gallery {
-    width: 85%;
+    width: 75%;
     column-count: 4;
     column-gap: 2vw;
     margin: 0 auto;
