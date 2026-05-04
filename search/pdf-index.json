@@ -1,972 +1,578 @@
 [
     {
-        "title": "MiniZine 3, L’Inquité des Pères",
+        "title": "MiniZine 3",
         "author": "Margaux Wiersch",
-        "file": "https://molardclub.fr/publications/molard9/MiniZine_3.pdf",
-        "tags": [
-            "minizine",
-            "3"
-        ]
+        "file": "http://website.fr/publications/molard9/MiniZine-3_Margaux-Wiersch.pdf",
+        "tags": []
     },
     {
-        "title": "Revendiquer l'ingratitude",
-        "author": "Enfants de bourgeois",
-        "file": "https://molardclub.fr/publications/molard9/Revendiquer_lingratitude.pdf",
-        "tags": [
-            "revendiquer",
-            "lingratitude"
-        ]
+        "title": "Desert Hears",
+        "author": "COQUELICOQUIN",
+        "file": "http://website.fr/publications/molard9/Desert-Hears_COQUELICOQUIN.pdf",
+        "tags": []
     },
     {
         "title": "Les vêtements ont un genre et i(e)ls transitionnent régulièrement",
-        "author": "Homosexuel de capitale",
-        "file": "https://molardclub.fr/publications/molard9/Lesvetementsontungenre.pdf",
-        "tags": [
-            "lesvetementsontungenre"
-        ]
+        "author": "Homosexuel de la capitale",
+        "file": "http://website.fr/publications/molard9/Les-vêtements-ont-un-genre-et-i(e)ls-transitionnent-régulièrement_Homosexuel-de-la-capitale.pdf",
+        "tags": []
     },
     {
         "title": "Mistral",
         "author": "Cassiopée Hennebert-Ferrand",
-        "file": "https://molardclub.fr/publications/molard9/Mistral_2_0.pdf",
-        "tags": [
-            "mistral",
-            "2",
-            "0"
-        ]
+        "file": "http://website.fr/publications/molard9/Mistral_Cassiopée-Hennebert---Ferrand.pdf",
+        "tags": []
     },
     {
-        "title": "Desert Hearts",
-        "author": "Coquelicoquin",
-        "file": "https://molardclub.fr/publications/molard9/coquelicoquin.pdf",
-        "tags": [
-            "coquelicoquin"
-        ]
-    },
-    {
-        "title": "Punkish boys pinkish girls, éclatez les corps",
-        "author": "MW",
-        "file": "https://molardclub.fr/publications/molard19/Punkish_Boys_Punikish_Girls_Éclatez_les_corps.pdf",
-        "tags": [
-            "punkish",
-            "boys",
-            "punikish",
-            "girls",
-            "éclatez",
-            "les",
-            "corps"
-        ]
-    },
-    {
-        "title": "Parce que quelqu'un doit le dire",
-        "author": "BGDC",
-        "file": "https://molardclub.fr/publications/molard19/Parce_que_quelquun_doit_le_dire.pdf",
-        "tags": [
-            "parce",
-            "que",
-            "quelquun",
-            "doit",
-            "le",
-            "dire"
-        ]
-    },
-    {
-        "title": "Félin Furieux Acte III : Ainsi Partit Fauxcul Vers L’Antarctique",
-        "author": "DJ Fauxcul",
-        "file": "https://molardclub.fr/publications/molard19/DJ_FAUXCUL_ACTE_III.pdf",
-        "tags": [
-            "dj",
-            "fauxcul",
-            "acte",
-            "iii"
-        ]
+        "title": "Revendiquer l'ingratitude",
+        "author": "Enfants de bourgeois",
+        "file": "http://website.fr/publications/molard9/Revendiquer-l'ingratitude_Enfants-de-bourgeois.pdf",
+        "tags": []
     },
     {
         "title": "Partystar",
         "author": "MW",
-        "file": "https://molardclub.fr/publications/molard19/MW_Partystar_poster.pdf",
-        "tags": [
-            "mw",
-            "partystar",
-            "poster"
-        ]
+        "file": "http://website.fr/publications/molard19/Partystar_MW.pdf",
+        "tags": []
     },
     {
         "title": "L'été au printemps",
         "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard19/l_ete_au_printemps.pdf",
-        "tags": [
-            "l",
-            "ete",
-            "au",
-            "printemps"
-        ]
+        "file": "http://website.fr/publications/molard19/L'été-au-printemps_Michel-Fauxcul.pdf",
+        "tags": []
     },
     {
-        "title": "Molard Club célèbre l’Amour (subversif et révolutionnaire)",
-        "author": "Molard Club la rédaction",
-        "file": "https://molardclub.fr/publications/molard6/publi1/Valentines.pdf",
-        "tags": [
-            "saint-valentin"
-        ]
+        "title": "Punkish boys pinkish girls, éclatez les corps",
+        "author": "MW",
+        "file": "http://website.fr/publications/molard19/Punkish-boys-pinkish-girls,-éclatez-les-corps_MW.pdf",
+        "tags": []
     },
     {
-        "title": "Ange - Playlist",
-        "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard6/publi4/ange.pdf",
-        "tags": [
-            "ange"
-        ]
+        "title": "Félin Furieux Acte III",
+        "author": "DJ Fauxcul",
+        "file": "http://website.fr/publications/molard19/Félin-Furieux-Acte-III_DJ-Fauxcul.pdf",
+        "tags": []
     },
     {
-        "title": "Ces ploucs pensent que mal s’habiller est une forme de résistance à la superficialité de la mode",
-        "author": "Homosexuel de capitale",
-        "file": "https://molardclub.fr/publications/molard6/publi2/Ces_ploucs_pensent.pdf",
-        "tags": [
-            "ces",
-            "ploucs",
-            "pensent"
-        ]
+        "title": "Parce que quelqu'un doit le dire",
+        "author": "BGDC",
+        "file": "http://website.fr/publications/molard19/Parce-que-quelqu'un-doit-le-dire_BGDC.pdf",
+        "tags": []
     },
     {
         "title": "Je déteste ton orchidée connard",
         "author": "Opération Scorpion",
-        "file": "https://molardclub.fr/publications/molard6/publi3/je_deteste_ton _orchidee_connard.pdf",
-        "tags": [
-            "je",
-            "deteste",
-            "ton",
-            "orchidee",
-            "connard"
-        ]
+        "file": "http://website.fr/publications/molard6/Je-déteste-ton-orchidée-connard_Opération-Scorpion.pdf",
+        "tags": []
     },
     {
-        "title": "Mme SNOB, la critique d'art - épisode 1",
+        "title": "Ces ploucs pensent que mal s'habiller est une forme de résistance à la superficialité de la mode",
+        "author": "Homosexuel de la capitale",
+        "file": "http://website.fr/publications/molard6/Ces-ploucs-pensent-que-mal-s'habiller-est-une-forme-de-résistance-à-la-superficialité-de-la-mode_Homosexuel-de-la-capitale.pdf",
+        "tags": []
+    },
+    {
+        "title": "Molard Club célèbre l'Amour (subversif et révolutionnaire)",
+        "author": "Molard Club la rédaction",
+        "file": "http://website.fr/publications/molard6/Molard-Club-célèbre-l'Amour-(subversif-et-révolutionnaire)_Molard-Club-la-rédaction.pdf",
+        "tags": []
+    },
+    {
+        "title": "Ange-Playlist",
+        "author": "Michel Fauxcul",
+        "file": "http://website.fr/publications/molard6/Ange---Playlist_Michel-Fauxcul.pdf",
+        "tags": []
+    },
+    {
+        "title": "Récit au coeur du FLNJ ou l'importance de l'utopie politique",
+        "author": "Margaux Wiersch",
+        "file": "http://website.fr/publications/molard12/Récit-au-coeur-du-FLNJ-ou-l'importance-de-l'utopie-politique_Margaux-Wiersch.pdf",
+        "tags": []
+    },
+    {
+        "title": "Mme Snob, la critique d'art 1",
         "author": "MW",
-        "file": "https://molardclub.fr/publications/molard12/Mme_SNOB_ la_critique_d_art.pdf",
-        "tags": [
-            "mme",
-            "snob",
-            "la",
-            "critique",
-            "d",
-            "art"
-        ]
+        "file": "http://website.fr/publications/molard12/Mme-Snob,-la-critique-d'art-1_MW.pdf",
+        "tags": []
     },
     {
         "title": "Poster Molard Club 2025",
         "author": "Clyde Louis-Joseph-Dogué",
-        "file": "https://molardclub.fr/publications/molard12/posterMolardClub.pdf",
-        "tags": [
-            "postermolardclub"
-        ]
+        "file": "http://website.fr/publications/molard12/Poster-Molard-Club-2025_Clyde-Louis---Joseph---Dogué.pdf",
+        "tags": []
     },
     {
-        "title": "A-t-il pleuré",
+        "title": "A t il pleuré",
         "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard12/a_t_il_pleure.pdf",
-        "tags": [
-            "a",
-            "t",
-            "il",
-            "pleure"
-        ]
-    },
-    {
-        "title": "Récit au coeur du FLNJ ou l’importance de l’utopie politique",
-        "author": "Margaux Wiersch",
-        "file": "https://molardclub.fr/publications/molard12/recit_au_coeur_du_FNLJ.pdf",
-        "tags": [
-            "récit",
-            "coeur",
-            "fnlj"
-        ]
+        "file": "http://website.fr/publications/molard12/A-t-il-pleuré_Michel-Fauxcul.pdf",
+        "tags": []
     },
     {
         "title": "Le kit de rentrée de Molard Club",
         "author": "Vilaine Charmeur",
-        "file": "https://molardclub.fr/publications/molard12/kit_de_rentreemolard.pdf",
-        "tags": [
-            "kit",
-            "rentree"
-        ]
+        "file": "http://website.fr/publications/molard12/Le-kit-de-rentrée-de-Molard-Club_Vilaine-Charmeur.pdf",
+        "tags": []
+    },
+    {
+        "title": "Lionel Soukaz est mort",
+        "author": "Rebeko Warning",
+        "file": "http://website.fr/publications/molard7/Lionel-Soukaz-est-mort_Rebeko-Warning.pdf",
+        "tags": []
     },
     {
         "title": "Sexe et Violence, Désir et Misandrie, Étude des clips de Mylène Farmer",
         "author": "Tristana",
-        "file": "https://molardclub.fr/publications/molard7/publi1/etude_des_clips_de_Mylene_Farmer_Tristana.pdf",
-        "tags": [
-            "étude",
-            "clips",
-            "mylene",
-            "farmer",
-            "tristana"
-        ]
+        "file": "http://website.fr/publications/molard7/Sexe-et-Violence,-Désir-et-Misandrie,-Étude-des-clips-de-Mylène-Farmer_Tristana.pdf",
+        "tags": []
     },
     {
-        "title": "Ange 2 - Vidéo",
+        "title": "Ange II-Vidéo",
         "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard7/publi4/ange_2.pdf",
-        "tags": [
-            "ange",
-            "2"
-        ]
+        "file": "http://website.fr/publications/molard7/Ange-II---Vidéo_Michel-Fauxcul.pdf",
+        "tags": []
     },
     {
         "title": "You don't understand",
         "author": "EMAGLAMOUR",
-        "file": "https://molardclub.fr/publications/molard7/publi5/you_don_t_understand.pdf",
-        "tags": [
-            "you",
-            "don't",
-            "understand"
-        ]
+        "file": "http://website.fr/publications/molard7/You-don't-understand_EMAGLAMOUR.pdf",
+        "tags": []
     },
     {
-        "title": "« LIONEL SOUKAZ EST MORT - esquisses pour une nécrologie",
-        "author": "Rebeko Warning",
-        "file": "https://molardclub.fr/publications/molard7/publi2/Lionel_soukaz_est_mort_Rebeko_Warning.pdf",
-        "tags": [
-            "lionel",
-            "soukaz",
-            "est",
-            "mort",
-            "rebeko",
-            "warning"
-        ]
-    },
-    {
-        "title": "Ce n’est pas l’homosexuel qui est pervers mais la société dans laquelle il vit, tentative de traduction et fragments théorique",
+        "title": "Ce n'est pas l'homosexuel qui est pervers",
         "author": "BGDC",
-        "file": "https://molardclub.fr/publications/molard7/publi3/Ce_nest_pas_lhomosexuel.pdf",
-        "tags": [
-            "ce",
-            "nest",
-            "pas",
-            "lhomosexuel"
-        ]
-    },
-    {
-        "title": "DONNA GOTTSCHALK NOUS REGARDE",
-        "author": "Rebeko Warning ",
-        "file": "https://molardclub.fr/publications/molard13/Rebeko_Warning_DONNA_GOTTSCHALK_NOUS_REGARDE.pdf",
-        "tags": [
-            "rebeko",
-            "warning",
-            "donna",
-            "gottschalk",
-            "nous",
-            "regarde"
-        ]
-    },
-    {
-        "title": "Peau contre peau",
-        "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard13/peau_contre_peau.pdf",
-        "tags": [
-            "peau",
-            "contre",
-            "peau"
-        ]
+        "file": "http://website.fr/publications/molard7/Ce-n'est-pas-l'homosexuel-qui-est-pervers_BGDC.pdf",
+        "tags": []
     },
     {
         "title": "Roses mortes",
         "author": "MW",
-        "file": "https://molardclub.fr/publications/molard13/MW_Roses_mortes.pdf",
-        "tags": [
-            "mw",
-            "roses",
-            "mortes",
-            "poster"
-        ]
+        "file": "http://website.fr/publications/molard13/Roses-mortes_MW.pdf",
+        "tags": []
     },
     {
-        "title": " Les hétérosexuels veulent ma bite et je ne suis même pas trans !",
-        "author": "BGDC",
-        "file": "https://molardclub.fr/publications/molard13/Les_heterosexuels_veulent_ma_bite.pdf",
-        "tags": [
-            "les",
-            "heterosexuels",
-            "veulent",
-            "ma",
-            "bite"
-        ]
-    },
-    {
-        "title": "Le quinze octobre deux mille vingt cinq au badaboum, une icône est née — Compte-rendu du concert anniversaire de Tony Zola",
+        "title": "Peau contre peau",
         "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard13/tony_zola_compte_rendu.pdf",
-        "tags": [
-            "tony",
-            "zola",
-            "compte",
-            "rendu"
-        ]
+        "file": "http://website.fr/publications/molard13/Peau-contre-peau_Michel-Fauxcul.pdf",
+        "tags": []
     },
     {
-        "title": "Molards mélés molards fléchés",
-        "author": "Opération Scorpion",
-        "file": "https://molardclub.fr/publications/molard11/molard_meles.pdf",
-        "tags": [
-            "molard",
-            "meles"
-        ]
+        "title": "Compte rendu du concert anniversaire de Tony Zola",
+        "author": "Michel Fauxcul",
+        "file": "http://website.fr/publications/molard13/Compte-rendu-du-concert-anniversaire-de-Tony-Zola_Michel-Fauxcul.pdf",
+        "tags": []
     },
     {
-        "title": "Moi, je n’ai pas peur des araignées - Étude de l’araignée comme figure artistique féminin d’Arachné à Mylène Farmer",
+        "title": "DONNA GOTTSCHALK NOUS REGARDE",
+        "author": "Rebeko Warning",
+        "file": "http://website.fr/publications/molard13/DONNA-GOTTSCHALK-NOUS-REGARDE_Rebeko-Warning.pdf",
+        "tags": []
+    },
+    {
+        "title": "Les hétérosexuels veulent ma bite",
+        "author": "BGDC",
+        "file": "http://website.fr/publications/molard13/Les-hétérosexuels-veulent-ma-bite_BGDC.pdf",
+        "tags": []
+    },
+    {
+        "title": "Moi, je n'ai pas peur des araignées",
         "author": "Margaux Wiersch",
-        "file": "https://molardclub.fr/publications/molard11/moi_j_ai_pas_peur_des_araignees.pdf",
-        "tags": [
-            "moi",
-            "j",
-            "ai",
-            "pas",
-            "peur",
-            "des",
-            "araignees"
-        ]
+        "file": "http://website.fr/publications/molard11/Moi,-je-n'ai-pas-peur-des-araignées_Margaux-Wiersch.pdf",
+        "tags": []
     },
     {
-        "title": "Félin Furieux Acte I : DJ Fauxcul La Naissance",
-        "author": "DJ Fauxcul",
-        "file": "https://molardclub.fr/publications/molard11/FELIN_FURIEUX_ACTE_I_DJ_FAUXCUL_La_Naissance.pdf",
-        "tags": [
-            "felin",
-            "furieux",
-            "acte",
-            "i",
-            "dj",
-            "fauxcul",
-            "la",
-            "naissance"
-        ]
+        "title": "Seuil de discrétion à respecter",
+        "author": "BGDC",
+        "file": "http://website.fr/publications/molard11/Seuil-de-discrétion-à-respecter_BGDC.pdf",
+        "tags": []
     },
     {
         "title": "So quiet",
         "author": "Cassiopée Hennebert-Ferrand",
-        "file": "https://molardclub.fr/publications/molard11/So_quiet.pdf",
-        "tags": [
-            "so",
-            "quiet"
-        ]
+        "file": "http://website.fr/publications/molard11/So-quiet_Cassiopée-Hennebert---Ferrand.pdf",
+        "tags": []
+    },
+    {
+        "title": "Molards mélés molards fléchés",
+        "author": "Opération Scorpion",
+        "file": "http://website.fr/publications/molard11/Molards-mélés-molards-fléchés_Opération-Scorpion.pdf",
+        "tags": []
+    },
+    {
+        "title": "Félin Furieux Acte I : DJ Fauxcul La Naissance",
+        "author": "DJ Fauxcul",
+        "file": "http://website.fr/publications/molard11/Félin-Furieux-Acte-I-:-DJ-Fauxcul-La-Naissance_DJ-Fauxcul.pdf",
+        "tags": []
     },
     {
         "title": "Horoscope de l'été",
         "author": "Coquelicoquin",
-        "file": "https://molardclub.fr/publications/molard11/horoscope_ete_coquelicoquin.pdf",
-        "tags": [
-            "horoscope",
-            "ete",
-            "coquelicoquin"
-        ]
-    },
-    {
-        "title": "SEUIL DE DISCRÉTION À RESPECTER",
-        "author": "BGDC",
-        "file": "https://molardclub.fr/publications/molard11/SEUIL_DE_DISCRETION_A_RESPECTER.pdf",
-        "tags": [
-            "seuil",
-            "de",
-            "discretion",
-            "a",
-            "respecter"
-        ]
-    },
-    {
-        "title": "Kevin-Gael",
-        "author": "BGDC",
-        "file": "https://molardclub.fr/publications/molard4/publi1/Kevin-Gael_BGDC .pdf",
-        "tags": [
-            "kevin",
-            "gael",
-            "bgdc"
-        ]
-    },
-    {
-        "title": "Pourquoi la grosse bagnole de Dominic Toretto est (presque) plus Camp que toi !",
-        "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard4/publi4/la_grosse_bagnole_de_toretto.pdf",
-        "tags": [
-            "la",
-            "grosse",
-            "bagnole",
-            "de",
-            "toretto"
-        ]
-    },
-    {
-        "title": "J’ai laissé des affaires traîner chez toi",
-        "author": "Margaux Wiersch",
-        "file": "https://molardclub.fr/publications/molard4/publi5/POSTER.pdf",
-        "tags": [
-            "poster"
-        ]
+        "file": "http://website.fr/publications/molard11/Horoscope-de-l'été_Coquelicoquin.pdf",
+        "tags": []
     },
     {
         "title": "YOUR SEX IDOLL",
         "author": "Cassiopée Hennebert-Ferrand",
-        "file": "https://molardclub.fr/publications/molard4/publi2/Your_Sex_idoll_Cassio.pdf",
-        "tags": [
-            "your",
-            "sex",
-            "idoll",
-            "cassio"
-        ]
+        "file": "http://website.fr/publications/molard4/YOUR-SEX-IDOLL_Cassiopée-Hennebert---Ferrand.pdf",
+        "tags": []
+    },
+    {
+        "title": "Kevin-Gael",
+        "author": "BGDC",
+        "file": "http://website.fr/publications/molard4/Kevin-Gael_BGDC.pdf",
+        "tags": []
     },
     {
         "title": "Edmond Fastcar est mort (2057) Acte I : Le God Bless",
         "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard4/publi3/Edmond_Fastcar_est_mort_(2057).pdf",
-        "tags": [
-            "edmond",
-            "fastcar",
-            "est",
-            "mort",
-            "(2057)"
-        ]
+        "file": "http://website.fr/publications/molard4/Edmond-Fastcar-est-mort-(2057)-Acte-I-:-Le-God-Bless_Michel-Fauxcul.pdf",
+        "tags": []
     },
     {
-        "title": "MiniZine 2",
+        "title": "Pourquoi la grosse bagnole de Dominic Toretta est (presque) plus camp que toi",
+        "author": "Michel Fauxcul",
+        "file": "http://website.fr/publications/molard4/Pourquoi-la-grosse-bagnole-de-Dominic-Toretta-est-(presque)-plus-camp-que-toi_Michel-Fauxcul.pdf",
+        "tags": []
+    },
+    {
+        "title": "J'ai laissé des affaires traîner chez toi",
         "author": "Margaux Wiersch",
-        "file": "https://molardclub.fr/publications/molard5/publi1/MiniZine_2.pdf",
-        "tags": [
-            "minizine",
-            "2"
-        ]
+        "file": "http://website.fr/publications/molard4/J'ai-laissé-des-affaires-traîner-chez-toi_Margaux-Wiersch.pdf",
+        "tags": []
+    },
+    {
+        "title": "Pourquoi Gabriel Attal n'est pas homosexuel",
+        "author": "BGDC",
+        "file": "http://website.fr/publications/molard5/Pourquoi-Gabriel-Attal-n'est-pas-homosexuel_BGDC.pdf",
+        "tags": []
     },
     {
         "title": "La mouette",
         "author": "Margaux Wiersch",
-        "file": "https://molardclub.fr/publications/molard5/publi4/La_mouette.pdf",
-        "tags": [
-            "la",
-            "mouette"
-        ]
+        "file": "http://website.fr/publications/molard5/La-mouette_Margaux-Wiersch.pdf",
+        "tags": []
     },
     {
-        "title": "PARTYSTAR & KetamineBoyfriend : L’aparté",
-        "author": "PARTYSTAR",
-        "file": "https://molardclub.fr/publications/molard5/publi5/PARTYSTAR_le_retour.pdf",
-        "tags": [
-            "partystar",
-            "le",
-            "retour"
-        ]
+        "title": "MiniZine 2",
+        "author": "Margaux Wiersch",
+        "file": "http://website.fr/publications/molard5/MiniZine-2_Margaux-Wiersch.pdf",
+        "tags": []
     },
     {
-        "title": "Edmond Fastcar est mort (2057) ActeII : JOURS D’AUTOMNE",
+        "title": "Edmond Fastcar est mort (2057) Acte II : JOURS D'AUTOMNE",
         "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard5/publi2/Edmond_Fastcar_est_mort.pdf",
-        "tags": [
-            "edmond",
-            "fastcar",
-            "est",
-            "mort"
-        ]
+        "file": "http://website.fr/publications/molard5/Edmond-Fastcar-est-mort-(2057)-Acte-II-:-JOURS-D'AUTOMNE_Michel-Fauxcul.pdf",
+        "tags": []
     },
     {
-        "title": "Pourquoi Gabriel Attal n’est pas homosexuel",
-        "author": "BGDC",
-        "file": "https://molardclub.fr/publications/molard5/publi3/Attal même pas gay.pdf",
-        "tags": [
-            "attal",
-            "même",
-            "pas",
-            "gay"
-        ]
+        "title": "PARTYSTAR et KetamineBoyfriend L’aparté",
+        "author": "PARTYSTAR",
+        "file": "http://website.fr/publications/molard5/PARTYSTAR-et-KetamineBoyfriend-L’aparté_PARTYSTAR.pdf",
+        "tags": []
     },
     {
         "title": "B E D R O T",
         "author": "Cassiopée Hennebert-Ferrand",
-        "file": "https://molardclub.fr/publications/molard18/B_E_D_R_O_T.pdf",
-        "tags": [
-            "bedrot"
-        ]
+        "file": "http://website.fr/publications/molard18/B-E-D-R-O-T_Cassiopée-Hennebert---Ferrand.pdf",
+        "tags": []
     },
     {
-        "title": "Marteau piqueur",
-        "author": "Kate B.",
-        "file": "https://molardclub.fr/publications/molard18/Marteau_piqueur.pdf",
-        "tags": [
-            "marteau",
-            "piqueur"
-        ]
+        "title": "Ehh l'isoloir c'est nul",
+        "author": "BGDC",
+        "file": "http://website.fr/publications/molard18/Ehh-l'isoloir-c'est-nul_BGDC.pdf",
+        "tags": []
     },
     {
         "title": "En attendant l'été",
         "author": "MW",
-        "file": "https://molardclub.fr/publications/molard18/en_attendant_l'ete_MW.pdf",
-        "tags": [
-            "poster",
-            "attendant",
-            "l'été",
-            "mw"
-        ]
+        "file": "http://website.fr/publications/molard18/En-attendant-l'été_MW.pdf",
+        "tags": []
     },
     {
         "title": "MONKEY ME RELOADED",
         "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard18/MONKEY_ME_RELOADED.pdf",
-        "tags": [
-            "monkey",
-            "me",
-            "reloaded"
-        ]
+        "file": "http://website.fr/publications/molard18/MONKEY-ME-RELOADED_Michel-Fauxcul.pdf",
+        "tags": []
     },
     {
-        "title": "EHHH L'ISOLOIR C'EST NUL »",
-        "author": "BGDC",
-        "file": "https://molardclub.fr/publications/molard18/Ehhh_lisoloir_cest_nul.pdf",
-        "tags": [
-            "ehhh",
-            "lisoloir",
-            "cest",
-            "nul"
-        ]
+        "title": "Marteau piqueur",
+        "author": "Kate B",
+        "file": "http://website.fr/publications/molard18/Marteau-piqueur_Kate-B.pdf",
+        "tags": []
     },
     {
-        "title": "J'ai fait un enfant dans le dos de Klein et c'est un enfant batardx",
+        "title": "Minizine 1",
         "author": "Margaux Wiersch",
-        "file": "https://molardclub.fr/publications/molard1/publi_1/klein.pdf",
-        "tags": [
-            "klein",
-            "margaux",
-            "wiersch"
-        ]
+        "file": "http://website.fr/publications/molard1/Minizine-1_Margaux-Wiersch.pdf",
+        "tags": []
     },
     {
-        "title": "Prendre soin : l'enième échec masculin",
+        "title": "Prendre soin L'énième échec masculin",
         "author": "Tristana",
-        "file": "https://molardclub.fr/publications/molard1/publi_3/texte.pdf",
-        "tags": [
-            "texte"
-        ]
+        "file": "http://website.fr/publications/molard1/Prendre-soin-L'énième-échec-masculin_Tristana.pdf",
+        "tags": []
     },
     {
-        "title": "One of your girls : À la conquête d'une soumission",
-        "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard1/publi_2/texte.pdf",
-        "tags": [
-            "texte"
-        ]
-    },
-    {
-        "title": "MiniZine 1",
+        "title": "j'ai fait un enfant dans le dos de klein et c'est un enfant batardx",
         "author": "Margaux Wiersch",
-        "file": "https://molardclub.fr/publications/molard1/publi_4/MiniZine n_1_MargauxWIERSCH.pdf",
-        "tags": [
-            "minizine",
-            "margaux",
-            "wiersch"
-        ]
+        "file": "http://website.fr/publications/molard1/j'ai-fait-un-enfant-dans-le-dos-de-klein-et-c'est-un-enfant-batardx_Margaux-Wiersch.pdf",
+        "tags": []
     },
     {
-        "title": "Quel est ce fantôme qui m’habite ? Une brève étude de la maison hantée",
-        "author": "Kate B.",
-        "file": "https://molardclub.fr/publications/molard14/Quel_est_ce_fantome_qui_m_habite.pdf",
-        "tags": [
-            "quel",
-            "est",
-            "ce",
-            "fantome",
-            "qui",
-            "m",
-            "habite"
-        ]
+        "title": "One of your girls À la conquête d'une soumission",
+        "author": "Michel Fauxcul",
+        "file": "http://website.fr/publications/molard1/One-of-your-girls-À-la-conquête-d'une-soumission_Michel-Fauxcul.pdf",
+        "tags": []
+    },
+    {
+        "title": "PI Pas intéressée, parle à ma main",
+        "author": "Tristana",
+        "file": "http://website.fr/publications/molard14/PI-Pas-intéressée,-parle-à-ma-main_Tristana.pdf",
+        "tags": []
+    },
+    {
+        "title": "Quel est ce fantôme qui m'habite ?",
+        "author": "Kate B",
+        "file": "http://website.fr/publications/molard14/Quel-est-ce-fantôme-qui-m'habite-?_Kate-B.pdf",
+        "tags": []
+    },
+    {
+        "title": "Félin Furieux Acte II",
+        "author": "DJ Fauxcul",
+        "file": "http://website.fr/publications/molard14/Félin-Furieux-Acte-II_DJ-Fauxcul.pdf",
+        "tags": []
     },
     {
         "title": "Keep it together and try to keep this thing alive",
         "author": "BGDC",
-        "file": "https://molardclub.fr/publications/molard14/Keep_it_together_and_try_to_keep_this_thing_alive.pdf",
-        "tags": [
-            "keep",
-            "it",
-            "together",
-            "and",
-            "try",
-            "to",
-            "keep",
-            "this",
-            "thing",
-            "alive"
-        ]
+        "file": "http://website.fr/publications/molard14/Keep-it-together-and-try-to-keep-this-thing-alive_BGDC.pdf",
+        "tags": []
     },
     {
-        "title": "PI Pas intéressée, parle à ma main. Ésthetique catcalling : cas de harcèlement de rue dans les clips musicaux",
-        "author": "Tristana",
-        "file": "https://molardclub.fr/publications/molard14/TRISTANA_PI_Pas_interessee_parle_a_ma_main.pdf",
-        "tags": [
-            "tristana",
-            "pi",
-            "pas",
-            "interessee",
-            "parle",
-            "a",
-            "ma",
-            "main"
-        ]
-    },
-    {
-        "title": "Félin Furieux Acte II : Pas Chassés Sur L’Autoroute Du Kiff",
-        "author": "DJ Fauxcul",
-        "file": "https://molardclub.fr/publications/molard14/DJ_FAUXCUL_ACTE II.pdf",
-        "tags": [
-            "dj",
-            "fauxcul",
-            "acte",
-            "ii"
-        ]
-    },
-    {
-        "title": "LES SIÈGES EN CUIR DE LA BMW SERIE 3 M46 COULEUR NOIRE FINI BRILLANT",
+        "title": "Les sièges en cuir de la BMW série 3 M46 couleur noire fini brillant",
         "author": "Cassiopée Hennebert-Ferrand",
-        "file": "https://molardclub.fr/publications/molard14/M46_2Final.pdf",
-        "tags": [
-            "m46",
-            "2final"
-        ]
-    },
-    {
-        "title": "Ange 3 - Notice",
-        "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard8/ange_3.pdf",
-        "tags": [
-            "ange",
-            "3"
-        ]
-    },
-    {
-        "title": "L'histoire de Bobby et Janis Volume 2",
-        "author": "PARTYSTAR",
-        "file": "https://molardclub.fr/publications/molard8/bobby_et_janis_vol2.pdf",
-        "tags": [
-            "bobby",
-            "et",
-            "janis",
-            "vol2"
-        ]
+        "file": "http://website.fr/publications/molard14/Les-sièges-en-cuir-de-la-BMW-série-3-M46-couleur-noire-fini-brillant_Cassiopée-Hennebert---Ferrand.pdf",
+        "tags": []
     },
     {
         "title": "Twinks et bibliothèques",
         "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard8/twinks_et_bibliotheques.pdf",
-        "tags": [
-            "twinks",
-            "et",
-            "bibliotheques"
-        ]
+        "file": "http://website.fr/publications/molard8/Twinks-et-bibliothèques_Michel-Fauxcul.pdf",
+        "tags": []
+    },
+    {
+        "title": "L'histoire de Bobby et Janis Volume 2",
+        "author": "PARTYSTAR",
+        "file": "http://website.fr/publications/molard8/L'histoire-de-Bobby-et-Janis-Volume-2_PARTYSTAR.pdf",
+        "tags": []
+    },
+    {
+        "title": "notice",
+        "author": "ange_3",
+        "file": "http://website.fr/publications/molard8/notice_ange_3.pdf",
+        "tags": []
     },
     {
         "title": "Un dieu jaloux",
         "author": "Clyde Louis-Joseph-Dogué",
-        "file": "https://molardclub.fr/publications/molard8/un_dieu_jaloux.pdf",
-        "tags": [
-            "poster",
-            "dieu",
-            "jaloux"
-        ]
+        "file": "http://website.fr/publications/molard8/Un-dieu-jaloux_Clyde-Louis---Joseph---Dogué.pdf",
+        "tags": []
     },
     {
-        "title": "La Meute",
+        "title": "Ange 3-Notice",
+        "author": "Michel Fauxcul",
+        "file": "http://website.fr/publications/molard8/Ange-3---Notice_Michel-Fauxcul.pdf",
+        "tags": []
+    },
+    {
+        "title": "La meute",
         "author": "Opération Scorpion",
-        "file": "https://molardclub.fr/publications/molard8/La_Meute.pdf",
-        "tags": [
-            "la",
-            "meute"
-        ]
+        "file": "http://website.fr/publications/molard8/La-meute_Opération-Scorpion.pdf",
+        "tags": []
     },
     {
         "title": "Deux ponts chaque matin",
         "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard17/deux_ponts_chaque_matin.pdf",
-        "tags": [
-            "deux",
-            "ponts",
-            "chaque",
-            "matin"
-        ]
+        "file": "http://website.fr/publications/molard17/Deux-ponts-chaque-matin_Michel-Fauxcul.pdf",
+        "tags": []
     },
     {
-        "title": "Molard Club célèbre l’Amour (subversif et révolutionnaire) édition 2",
+        "title": "L'intemporel : sclérose de la mode",
+        "author": "Homosexuel de la capitale",
+        "file": "http://website.fr/publications/molard17/L'intemporel-:-sclérose-de-la-mode_Homosexuel-de-la-capitale.pdf",
+        "tags": []
+    },
+    {
+        "title": "Molard Club célèbre l'Amour (subversif et révolutionnaire) édition 2",
         "author": "Molard Club la rédaction",
-        "file": "https://molardclub.fr/publications/molard17/Saint-Valentin.pdf",
-        "tags": [
-            "saint-valentin"
-        ]
+        "file": "http://website.fr/publications/molard17/Molard-Club-célèbre-l'Amour-(subversif-et-révolutionnaire)-édition-2_Molard-Club-la-rédaction.pdf",
+        "tags": []
     },
     {
         "title": "La pénitence",
         "author": "MW",
-        "file": "https://molardclub.fr/publications/molard17/la_penitence_poster_MW.pdf",
-        "tags": [
-            "la",
-            "penitence",
-            "poster",
-            "mw"
-        ]
-    },
-    {
-        "title": "L’intemporel: sclérose de la mode",
-        "author": "Homosexuel de capitale",
-        "file": "https://molardclub.fr/publications/molard17/Intemporel_sclerose_de_la_mode.pdf",
-        "tags": [
-            "intemporel",
-            "sclerose",
-            "de",
-            "la",
-            "mode"
-        ]
-    },
-    {
-        "title": "Déjà plein",
-        "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard10/deja_plein.pdf",
-        "tags": [
-            "deja",
-            "plein"
-        ]
-    },
-    {
-        "title": "ANTISOCIAL",
-        "author": "Margaux Wiersch",
-        "file": "https://molardclub.fr/publications/molard10/ANTISOCIAL.pdf",
-        "tags": [
-            "antisocial"
-        ]
+        "file": "http://website.fr/publications/molard17/La-pénitence_MW.pdf",
+        "tags": []
     },
     {
         "title": "Te libérer sexuellement ne te sauvera pas de tes traumas BB",
         "author": "Tristana",
-        "file": "https://molardclub.fr/publications/molard10/te_liberer_sexuellement_ne_te_sauvera_pas_de_tes_traumas.pdf",
-        "tags": [
-            "te",
-            "liberer",
-            "sexuellement",
-            "ne",
-            "te",
-            "sauvera",
-            "pas",
-            "de",
-            "tes",
-            "traumas"
-        ]
+        "file": "http://website.fr/publications/molard10/Te-libérer-sexuellement-ne-te-sauvera-pas-de-tes-traumas-BB_Tristana.pdf",
+        "tags": []
+    },
+    {
+        "title": "ANTISOCIAL",
+        "author": "Margaux Wiersch",
+        "file": "http://website.fr/publications/molard10/ANTISOCIAL_Margaux-Wiersch.pdf",
+        "tags": []
     },
     {
         "title": "Collage oh putain",
         "author": "Clyde Louis-Joseph-Dogué",
-        "file": "https://molardclub.fr/publications/molard10/oh_putain.pdf",
-        "tags": [
-            "oh",
-            "putain",
-            "collage"
-        ]
+        "file": "http://website.fr/publications/molard10/Collage-oh-putain_Clyde-Louis---Joseph---Dogué.pdf",
+        "tags": []
     },
     {
-        "title": "'Everybody Wants 2 B a Pornstar' de Shauna Sand : commentaire composé",
+        "title": "Déjà plein",
         "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard10/Commentaire_compose_Shauna_Sand.pdf",
-        "tags": [
-            "commentaire",
-            "compose",
-            "shauna",
-            "sand"
-        ]
+        "file": "http://website.fr/publications/molard10/Déjà-plein_Michel-Fauxcul.pdf",
+        "tags": []
     },
     {
-        "title": "Déjeuner sur herbe",
+        "title": "Everyone Wants 2 B a Pornstar",
+        "author": "Michel Fauxcul",
+        "file": "http://website.fr/publications/molard10/Everyone-Wants-2-B-a-Pornstar_Michel-Fauxcul.pdf",
+        "tags": []
+    },
+    {
+        "title": "Déjeuner sur l'herbe",
         "author": "MW",
-        "file": "https://molardclub.fr/publications/molard15/MW_dejeuner_sur_herbe.pdf",
-        "tags": [
-            "mw",
-            "dejeuner",
-            "poster",
-            "herbe"
-        ]
-    },
-    {
-        "title": "Le mur",
-        "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard15/le_mur.pdf",
-        "tags": [
-            "le",
-            "mur"
-        ]
-    },
-    {
-        "title": "Horoscope 2026",
-        "author": "Coquelicoquin",
-        "file": "https://molardclub.fr/publications/molard15/horoscope_coquelicoquin2026.pdf",
-        "tags": [
-            "horoscope",
-            "coquelicoquin2026"
-        ]
+        "file": "http://website.fr/publications/molard15/Déjeuner-sur-l'herbe_MW.pdf",
+        "tags": []
     },
     {
         "title": "Love is stronger than death",
         "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard15/love_is_stronger_than_death.pdf",
-        "tags": [
-            "love",
-            "is",
-            "stronger",
-            "than",
-            "death"
-        ]
+        "file": "http://website.fr/publications/molard15/Love-is-stronger-than-death_Michel-Fauxcul.pdf",
+        "tags": []
     },
     {
         "title": "HORIZON 2030",
         "author": "BGDC",
-        "file": "https://molardclub.fr/publications/molard15/HORIZON_2030_2.pdf",
-        "tags": [
-            "horizon",
-            "2030",
-            "2"
-        ]
+        "file": "http://website.fr/publications/molard15/HORIZON-2030_BGDC.pdf",
+        "tags": []
+    },
+    {
+        "title": "Le mur",
+        "author": "Michel Fauxcul",
+        "file": "http://website.fr/publications/molard15/Le-mur_Michel-Fauxcul.pdf",
+        "tags": []
+    },
+    {
+        "title": "Horoscope 2026",
+        "author": "Coquelicoquin",
+        "file": "http://website.fr/publications/molard15/Horoscope-2026_Coquelicoquin.pdf",
+        "tags": []
+    },
+    {
+        "title": "Rivalité passionnée",
+        "author": "Kate B",
+        "file": "http://website.fr/publications/molard16/Rivalité-passionnée_Kate-B.pdf",
+        "tags": []
+    },
+    {
+        "title": "Ça svoit qt'es gay!",
+        "author": "BGDC",
+        "file": "http://website.fr/publications/molard16/Ça-svoit-qt'es-gay!_BGDC.pdf",
+        "tags": []
+    },
+    {
+        "title": "Longue litanie",
+        "author": "PARTYSTAR",
+        "file": "http://website.fr/publications/molard16/Longue-litanie_PARTYSTAR.pdf",
+        "tags": []
+    },
+    {
+        "title": "Moijetaime",
+        "author": "Michel Focus",
+        "file": "http://website.fr/publications/molard16/Moijetaime_Michel-Focus.pdf",
+        "tags": []
     },
     {
         "title": "Plague Obsession",
         "author": "Soeur Fahy",
-        "file": "https://molardclub.fr/publications/molard16/Plague_Obsession.pdf",
-        "tags": [
-            "plague",
-            "obsession"
-        ]
-    },
-    {
-        "title": "moijetaime",
-        "author": "Michel Focus",
-        "file": "https://molardclub.fr/publications/molard16/moijetaime.pdf",
-        "tags": [
-            "moijetaime"
-        ]
-    },
-    {
-        "title": "Longue litanie - réflexion du silence et de ses boucles",
-        "author": "PARTYSTAR",
-        "file": "https://molardclub.fr/publications/molard16/partystar_Longue_litanie.pdf",
-        "tags": [
-            "partystar",
-            "longue",
-            "litanie"
-        ]
-    },
-    {
-        "title": "Rivalité passionnée. Ce que la romance fait aux femmes et aux gays",
-        "author": "Kate B.",
-        "file": "https://molardclub.fr/publications/molard16/Rivalite_passionnee.pdf",
-        "tags": [
-            "rivalite",
-            "passionnee"
-        ]
-    },
-    {
-        "title": "Ça svoit qt’es gay!",
-        "author": "BGDC",
-        "file": "https://molardclub.fr/publications/molard16/ca_svoit_qtes_gay.pdf",
-        "tags": [
-            "ca",
-            "svoit",
-            "qtes",
-            "gay"
-        ]
+        "file": "http://website.fr/publications/molard16/Plague-Obsession_Soeur-Fahy.pdf",
+        "tags": []
     },
     {
         "title": "I was once a hopful feminist kid",
         "author": "Margaux Wiersch",
-        "file": "https://molardclub.fr/publications/molard2/publi6/Iwasonce.pdf",
-        "tags": [
-            "margaux",
-            "wiersch"
-        ]
+        "file": "http://website.fr/publications/molard2/I-was-once-a-hopful-feminist-kid_Margaux-Wiersch.pdf",
+        "tags": []
     },
     {
-        "title": "Les co2urs, poème en prose.",
+        "title": "co2urs, poème en prose",
         "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard2/publi1/co2urs.pdf",
-        "tags": [
-            "co2urs"
-        ]
+        "file": "http://website.fr/publications/molard2/co2urs,-poème-en-prose_Michel-Fauxcul.pdf",
+        "tags": []
+    },
+    {
+        "title": "Combien",
+        "author": "Tristana",
+        "file": "http://website.fr/publications/molard2/Combien_Tristana.pdf",
+        "tags": []
     },
     {
         "title": "XTREME MYLENE",
         "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard2/publi4/XTREME.pdf",
-        "tags": [
-            "xtreme"
-        ]
+        "file": "http://website.fr/publications/molard2/XTREME-MYLENE_Michel-Fauxcul.pdf",
+        "tags": []
     },
     {
-        "title": "Tristesse, colère, sexe, amour et homosexualité : une analyse statistique de la discographie de Mylène Farmer",
+        "title": "Tristesse, colère, sexe, amour e homosexualité : une analyse statistique de la discogrpahie de Mylène Farmer",
         "author": "Vilaine Charmeur",
-        "file": "https://molardclub.fr/publications/molard2/publi5/StructureemotionnelleMylene.pdf",
+        "file": "http://website.fr/publications/molard2/Tristesse,-colère,-sexe,-amour-e-homosexualité-:-une-analyse-statistique-de-la-discogrpahie-de-Mylène-Farmer_Vilaine-Charmeur.pdf",
         "tags": []
     },
     {
         "title": "Marre marre marre",
         "author": "Tristana",
-        "file": "https://molardclub.fr/publications/molard2/publi2/marre.pdf",
-        "tags": [
-            "marre"
-        ]
-    },
-    {
-        "title": "Combien",
-        "author": "Tristana",
-        "file": "https://molardclub.fr/publications/molard2/publi3/combien.pdf",
-        "tags": [
-            "combien"
-        ]
-    },
-    {
-        "title": "Twilf - le triangle de la beauté masculine",
-        "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard3/publi6/twilf.pdf",
-        "tags": [
-            "twilf"
-        ]
-    },
-    {
-        "title": "Recommence",
-        "author": "Michel Fauxcul",
-        "file": "https://molardclub.fr/publications/molard3/publi1/recommence.pdf",
-        "tags": [
-            "recommence"
-        ]
-    },
-    {
-        "title": "Et une jour se termine sans avoir crié au Loup",
-        "author": "Tristana",
-        "file": "https://molardclub.fr/publications/molard3/publi4/TRISTANA.pdf",
-        "tags": [
-            "tristana"
-        ]
-    },
-    {
-        "title": "Je ne parle pas créole",
-        "author": "CLYDE",
-        "file": "https://molardclub.fr/publications/molard3/publi5/je_ne_parle_pas_creole.pdf",
-        "tags": [
-            "je",
-            "ne",
-            "parle",
-            "pas",
-            "creole"
-        ]
+        "file": "http://website.fr/publications/molard2/Marre-marre-marre_Tristana.pdf",
+        "tags": []
     },
     {
         "title": "L'histoire de Bobby et Janis 1",
         "author": "PARTYSTAR",
-        "file": "https://molardclub.fr/publications/molard3/publi2/PARTYSTAR.pdf",
-        "tags": [
-            "partystar"
-        ]
+        "file": "http://website.fr/publications/molard3/L'histoire-de-Bobby-et-Janis-1_PARTYSTAR.pdf",
+        "tags": []
+    },
+    {
+        "title": "Recommence",
+        "author": "Michel Fauxcul",
+        "file": "http://website.fr/publications/molard3/Recommence_Michel-Fauxcul.pdf",
+        "tags": []
+    },
+    {
+        "title": "Twilf-le triangle de la beauté masculine",
+        "author": "Michel Fauxcul",
+        "file": "http://website.fr/publications/molard3/Twilf---le-triangle-de-la-beauté-masculine_Michel-Fauxcul.pdf",
+        "tags": []
+    },
+    {
+        "title": "Et un jour se termine sans avoir crié au loup",
+        "author": "Tristana",
+        "file": "http://website.fr/publications/molard3/Et-un-jour-se-termine-sans-avoir-crié-au-loup_Tristana.pdf",
+        "tags": []
+    },
+    {
+        "title": "Je ne parle pas créole",
+        "author": "CLYDE",
+        "file": "http://website.fr/publications/molard3/Je-ne-parle-pas-créole_CLYDE.pdf",
+        "tags": []
     },
     {
         "title": "123123123",
-        "author": "Marcelle Prout",
-        "file": "https://molardclub.fr/publications/molard3/publi3/123123123.pdf",
-        "tags": [
-            "123123123"
-        ]
+        "author": "Michel Fauxcul",
+        "file": "http://website.fr/publications/molard3/123123123_Michel-Fauxcul.pdf",
+        "tags": []
     }
 ]
