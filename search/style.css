@@ -72,7 +72,7 @@ input, label {
     }
 
     input {
-        width: 75%;
+        width: 85%;
     }
 
     .search-container {
@@ -83,7 +83,7 @@ input, label {
         column-count: 1;
         column-gap: 1em;
     }
-    
+
     .petitspace {
         height: 1em;
     }
