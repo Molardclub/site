@@ -21,6 +21,7 @@ input {
     width: 42em;
     max-width: 100%;
     font-family: 'MyFont';
+    align-items: center;
 }
 
 input, label {
@@ -40,10 +41,12 @@ input, label {
 }
 
 .gallery {
+    align-items: center;
     width: 84em;
     column-count: 4;
     column-gap: 2vw;
 }
+
 .gallery img {
     width: 100%;
     margin-bottom: 2vw;
