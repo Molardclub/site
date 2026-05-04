@@ -46,14 +46,8 @@ input, label {
     text-align: center;
 }
 
-.result-card .caption {
-    margin-top: 6px;
-    font-size: 0.9rem;
-    text-align: center;
-}
-
-.petit{
-    width: 15%;
+.result-card img {
+    width: 50%;
 }
 
 .petitspace {
