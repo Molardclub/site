@@ -41,10 +41,10 @@ input, label {
 }
 
 .gallery {
-    align-items: center;
-    width: 84em;
+    width: 85%;
     column-count: 4;
     column-gap: 2vw;
+    margin: 0 auto;
 }
 
 .gallery img {
