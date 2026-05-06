@@ -55,6 +55,43 @@ input, label {
     margin-bottom: 2vw;
 }
 
+/* --- OVERLAY SURVOL --- */
+
+.result-item {
+    position: relative;
+    break-inside: avoid;   /* indispensable pour column-count */
+}
+
+.result-item img {
+    width: 100%;
+    display: block;
+    border-radius: 0.5em;
+    transition: transform 0.3s ease;
+}
+
+.result-item .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 89.5%;
+    height: 92%;
+    background: rgba(0,0,0,0.45);
+    color: white;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+    opacity: 0;
+    border-radius: 0.5em;
+    transition: opacity 0.3s ease;
+    padding: 1em;
+    pointer-events: none; 
+}
+
+.result-item:hover .overlay {
+    opacity: 1;
+}
+
 .petitspace {
     height: 3em;
 }

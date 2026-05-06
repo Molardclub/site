@@ -1,4 +1,4 @@
-// JavaScript: search + thumbnails with onclick
+// Chargement du fichier JSON
 async function loadIndex() {
   const res = await fetch('pdf-index.json');
   return await res.json();
@@ -21,16 +21,32 @@ loadIndex().then(index => {
       .forEach(item => {
         const jpg = item.file.replace('.pdf', '.jpg');
 
+        // Conteneur de l'image + overlay
+        const wrapper = document.createElement('div');
+        wrapper.className = 'result-item';
+
+        // Lien vers le PDF
         const link = document.createElement('a');
-        link.href = item.file; // PDF link if user wants to open the file
+        link.href = item.file;
         link.className = 'result-link';
 
+        // Image miniature
         const img = document.createElement('img');
         img.src = jpg;
         img.alt = item.title;
 
+        // Overlay sombre + texte
+        const overlay = document.createElement('div');
+        overlay.className = 'overlay';
+        overlay.innerHTML = `
+          <p>${item.title}<br><br>${item.author}</p>
+        `;
+
+        // Construction
         link.appendChild(img);
-        results.appendChild(link);
+        wrapper.appendChild(link);
+        wrapper.appendChild(overlay);
+        results.appendChild(wrapper);
       });
   });
 });
