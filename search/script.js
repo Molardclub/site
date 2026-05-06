@@ -39,7 +39,7 @@ loadIndex().then(index => {
         const overlay = document.createElement('div');
         overlay.className = 'overlay';
         overlay.innerHTML = `
-          <p>${item.title}<br><br>${item.author}</p>
+          <p>${item.title}<br><br>${item.author}<br>${item.month}, ${item.year}</p>
         `;
 
         // Construction
