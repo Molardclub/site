@@ -99,6 +99,10 @@ input, label {
     color: white;
 }
 
+.title {
+    color: white;
+}
+
 @media (max-width: 768px) {
     body {
         margin: 0;
