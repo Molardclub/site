@@ -95,53 +95,45 @@ input, label {
 }
 
 @media (max-width: 768px) {
-
     body {
         margin: 0;
         padding: 0.75em;
-        align-items: center;
     }
-
     h1 {
         font-size: 1.25em;
     }
-
     input {
         width: 90%;
     }
-
     .search-container {
         width: 100%;
     }
-
     .gallery {
         column-count: 1;
         column-gap: 1em;
         margin: 0 0.5em;
         width: 90%;
     }
-
     .result-item {
         display: flex;
         flex-direction: row;
         align-items: flex-start;
         gap: 0.8em;
+        border-bottom: 1px solid black;
+        padding-bottom: 1em;
         margin-bottom: 1.5em;
     }
-
     .result-item a {
         display: block;
         width: 33%;
         flex-shrink: 0;
     }
-
     .result-item img {
         width: 100%;
         height: auto;
         display: block;
         border-radius: 0.5em;
     }
-
     .result-item .overlay {
         width: 67%;
         position: static;
@@ -152,27 +144,26 @@ input, label {
         pointer-events: auto;
         font-size: 0.9em;
     }
-
     .result-item:hover .overlay {
         opacity: 1;
     }
-
     p {
-        font-size: 0.5em;
+        font-size: 0.75em;
         margin: 0;
     }
-
     .title-link {
+        font-size: 0.75em;
         text-decoration: none;
         color: inherit;
     }
-
+    .container a {
+        width: 100%;
+    }
     .title-link .title {
+        font-size: 0.75em;
         text-decoration: underline;
         margin-bottom: 0.2em;
     }
-
-
     .petitspace {
         height: 1em;
     }
