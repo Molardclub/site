@@ -283,7 +283,7 @@
         "title": "YOUR SEX IDOLL",
         "author": "Cassiopée Hennebert-Ferrand",
         "file": "http://molardclub.fr/publications/molard4/YOUR-SEX-IDOLL_Cassiopée-Hennebert---Ferrand.pdf",
-        "tags": [],
+        "tags": ["sexualité", "genre", "male gaze", "cyborg"],
         "month": "Décembre",
         "year": 2024
     },
@@ -291,7 +291,7 @@
         "title": "Kevin-Gael",
         "author": "BGDC",
         "file": "http://molardclub.fr/publications/molard4/Kevin-Gael_BGDC.pdf",
-        "tags": [],
+        "tags": ["pédé", "pd", "homosexualité", "fiction"],
         "month": "Décembre",
         "year": 2024
     },
@@ -299,15 +299,15 @@
         "title": "Edmond Fastcar est mort (2057) Acte I : Le God Bless",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard4/Edmond-Fastcar-est-mort-(2057)-Acte-I-:-Le-God-Bless_Michel-Fauxcul.pdf",
-        "tags": [],
+        "tags": ["tour montparnasse", "poésie", "fiction"],
         "month": "Décembre",
         "year": 2024
     },
     {
-        "title": "Pourquoi la grosse bagnole de Dominic Toretta est (presque) plus camp que toi",
+        "title": "Pourquoi la grosse bagnole de Dominic Toretto est (presque) plus camp que toi",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard4/Pourquoi-la-grosse-bagnole-de-Dominic-Toretta-est-(presque)-plus-camp-que-toi_Michel-Fauxcul.pdf",
-        "tags": [],
+        "tags": ["fast & furious", "camp"],
         "month": "Décembre",
         "year": 2024
     },
@@ -315,9 +315,7 @@
         "title": "J'ai laissé des affaires traîner chez toi",
         "author": "Margaux Wiersch",
         "file": "http://molardclub.fr/publications/molard4/J'ai-laissé-des-affaires-traîner-chez-toi_Margaux-Wiersch.pdf",
-        "tags": [
-            "poster"
-        ],
+        "tags": ["poster"],
         "month": "Décembre",
         "year": 2024
     },
@@ -325,7 +323,7 @@
         "title": "Pourquoi Gabriel Attal n'est pas homosexuel",
         "author": "BGDC",
         "file": "http://molardclub.fr/publications/molard5/Pourquoi-Gabriel-Attal-n'est-pas-homosexuel_BGDC.pdf",
-        "tags": [],
+        "tags": ["politique", "homosexualité"],
         "month": "Janvier",
         "year": 2025
     },
@@ -333,7 +331,7 @@
         "title": "La mouette",
         "author": "Margaux Wiersch",
         "file": "http://molardclub.fr/publications/molard5/La-mouette_Margaux-Wiersch.pdf",
-        "tags": [],
+        "tags": ["poésie"],
         "month": "Janvier",
         "year": 2025
     },
@@ -341,7 +339,7 @@
         "title": "MiniZine 2",
         "author": "Margaux Wiersch",
         "file": "http://molardclub.fr/publications/molard5/MiniZine-2_Margaux-Wiersch.pdf",
-        "tags": [],
+        "tags": ["fanzine", "poésie"],
         "month": "Janvier",
         "year": 2025
     },
@@ -349,7 +347,7 @@
         "title": "Edmond Fastcar est mort (2057) Acte II : JOURS D'AUTOMNE",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard5/Edmond-Fastcar-est-mort-(2057)-Acte-II-:-JOURS-D'AUTOMNE_Michel-Fauxcul.pdf",
-        "tags": [],
+        "tags": ["tour montparnasse", "poésie", "fiction"],
         "month": "Janvier",
         "year": 2025
     },
@@ -357,7 +355,7 @@
         "title": "PARTYSTAR & KetamineBoyfriend L’aparté",
         "author": "PARTYSTAR",
         "file": "http://molardclub.fr/publications/molard5/PARTYSTAR-et-KetamineBoyfriend-L’aparté_PARTYSTAR.pdf",
-        "tags": [],
+        "tags": ["poésie"],
         "month": "Janvier",
         "year": 2025
     },
@@ -405,7 +403,7 @@
         "title": "Minizine 1",
         "author": "Margaux Wiersch",
         "file": "http://molardclub.fr/publications/molard1/Minizine-1_Margaux-Wiersch.pdf",
-        "tags": [],
+        "tags": ["fanzine", "poésie"],
         "month": "Septembre",
         "year": 2024
     },
@@ -413,7 +411,7 @@
         "title": "Prendre soin L'énième échec masculin",
         "author": "Tristana",
         "file": "http://molardclub.fr/publications/molard1/Prendre-soin-L'énième-échec-masculin_Tristana.pdf",
-        "tags": [],
+        "tags": ["homme", "amitié", "hétérosexualité"],
         "month": "Septembre",
         "year": 2024
     },
@@ -421,7 +419,7 @@
         "title": "j'ai fait un enfant dans le dos de klein et c'est un enfant batardx",
         "author": "Margaux Wiersch",
         "file": "http://molardclub.fr/publications/molard1/j'ai-fait-un-enfant-dans-le-dos-de-klein-et-c'est-un-enfant-batardx_Margaux-Wiersch.pdf",
-        "tags": [],
+        "tags": ["Deleuze ", "Yves Klein ", "empreinte ", "artiste" ],
         "month": "Septembre",
         "year": 2024
     },
@@ -429,7 +427,7 @@
         "title": "One of your girls À la conquête d'une soumission",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard1/One-of-your-girls-À-la-conquête-d'une-soumission_Michel-Fauxcul.pdf",
-        "tags": [],
+        "tags": ["Troye Sivan", "genre", "pédé", "pop", "pd", "homosexualité"],
         "month": "Septembre",
         "year": 2024
     },
@@ -677,7 +675,7 @@
         "title": "Co2urs, poème en prose",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard2/co2urs,-poème-en-prose_Michel-Fauxcul.pdf",
-        "tags": [],
+        "tags": ["poésie", "amour", "pd", "homosexualité", "pédé"],
         "month": "Octobre",
         "year": 2024
     },
@@ -685,7 +683,7 @@
         "title": "Combien",
         "author": "Tristana",
         "file": "http://molardclub.fr/publications/molard2/Combien_Tristana.pdf",
-        "tags": [],
+        "tags": ["poésie"],
         "month": "Octobre",
         "year": 2024
     },
@@ -693,7 +691,7 @@
         "title": "XTREME MYLENE",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard2/XTREME-MYLENE_Michel-Fauxcul.pdf",
-        "tags": [],
+        "tags": ["Mylène Farmer", "concert", "pop", "pd", "pédé"],
         "month": "Octobre",
         "year": 2024
     },
@@ -701,7 +699,7 @@
         "title": "Tristesse, colère, sexe, amour et homosexualité : une analyse statistique de la discogrpahie de Mylène Farmer",
         "author": "Vilaine Charmeur",
         "file": "http://molardclub.fr/publications/molard2/Tristesse,-colère,-sexe,-amour-e-homosexualité-:-une-analyse-statistique-de-la-discogrpahie-de-Mylène-Farmer_Vilaine-Charmeur.pdf",
-        "tags": [],
+        "tags": ["Mylène famer"],
         "month": "Octobre",
         "year": 2024
     },
@@ -709,7 +707,7 @@
         "title": "Marre marre marre",
         "author": "Tristana",
         "file": "http://molardclub.fr/publications/molard2/Marre-marre-marre_Tristana.pdf",
-        "tags": [],
+        "tags": ["poésie", "révolte"],
         "month": "Octobre",
         "year": 2024
     },
@@ -717,7 +715,7 @@
         "title": "L'histoire de Bobby et Janis Volume 1",
         "author": "PARTYSTAR",
         "file": "http://molardclub.fr/publications/molard3/L'histoire-de-Bobby-et-Janis-1_PARTYSTAR.pdf",
-        "tags": [],
+        "tags": ["poésie"],
         "month": "Novembre",
         "year": 2024
     },
@@ -725,7 +723,7 @@
         "title": "Recommence",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard3/Recommence_Michel-Fauxcul.pdf",
-        "tags": [],
+        "tags": ["poésie", "amour", "tour montparnasse"],
         "month": "Novembre",
         "year": 2024
     },
@@ -733,7 +731,7 @@
         "title": "Twilf - le triangle de la beauté masculine",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard3/Twilf---le-triangle-de-la-beauté-masculine_Michel-Fauxcul.pdf",
-        "tags": [],
+        "tags": ["Swann Arlaud", "DILF", "Twink"],
         "month": "Novembre",
         "year": 2024
     },
@@ -741,7 +739,7 @@
         "title": "Et une journée se termine sans avoir crié au loup",
         "author": "Tristana",
         "file": "http://molardclub.fr/publications/molard3/Et-une-journée-se-termine-sans-avoir-crié-au-loup_Tristana.pdf",
-        "tags": [],
+        "tags": ["poésie"],
         "month": "Novembre",
         "year": 2024
     },
@@ -749,15 +747,15 @@
         "title": "Je ne parle pas créole",
         "author": "CLYDE",
         "file": "http://molardclub.fr/publications/molard3/Je-ne-parle-pas-créole_CLYDE.pdf",
-        "tags": [],
+        "tags": ["pasolini", "homosexualité", "décolonisation"],
         "month": "Novembre",
         "year": 2024
     },
     {
         "title": "123123123",
-        "author": "Michel Fauxcul",
-        "file": "http://molardclub.fr/publications/molard3/123123123_Michel-Fauxcul.pdf",
-        "tags": [],
+        "author": "Marcelle Prout",
+        "file": "http://molardclub.fr/publications/molard3/123123123_Marcelle-Prout.pdf",
+        "tags": ["poésie", "expérimental"],
         "month": "Novembre",
         "year": 2024
     }
