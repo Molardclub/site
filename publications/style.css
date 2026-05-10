@@ -18,11 +18,9 @@ body {
 }
 .column1 img,
 .column3 img {
-    position: fixed;
-    top: 50%;
-    transform: translateY(-50%);
-    width: auto;
-    max-height: 100%;
+    position: relative;
+    max-height: 100vh;
+    object-fit: contain;
 }
 .column2 {
     overflow-y: auto;
@@ -35,7 +33,7 @@ h1 {
     font-size: 4em;
     margin: 0.2em 0 1em;
 }
-.au-dessus
+.au-dessus,
 .fleche {
     display: none;
 }
