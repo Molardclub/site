@@ -94,6 +94,11 @@ input, label {
     height: 3em;
 }
 
+.title-link{
+    text-decoration: none;
+    color: black;
+}
+
 @media (max-width: 768px) {
     body {
         margin: 0;
@@ -154,7 +159,7 @@ input, label {
     .title-link {
         font-size: 0.75em;
         text-decoration: none;
-        color: inherit;
+        color: black;
     }
     .container a {
         width: 100%;
