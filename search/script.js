@@ -39,9 +39,12 @@ loadIndex().then(index => {
         const overlay = document.createElement('div');
         overlay.className = 'overlay';
         overlay.innerHTML = `
-          <div class="title">${item.title}</div>
-          <p>${item.author}<br>${item.month}, ${item.year}</p>
+          <a href="${item.file}" class="title-link">
+            <div class="title">${item.title}</div>
+          </a>
+          <div class="meta">${item.author}<br>${item.month}, ${item.year}</div>
         `;
+
 
         // Construction
         link.appendChild(img);
