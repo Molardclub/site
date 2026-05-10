@@ -98,7 +98,7 @@ input, label {
 
     body {
         margin: 0;
-        padding: 0.25em;
+        padding: 0.75em;
         align-items: center;
     }
 
@@ -169,6 +169,7 @@ input, label {
 
     .title-link .title {
         text-decoration: underline;
+        margin-bottom: 0.2em;
     }
 
 
