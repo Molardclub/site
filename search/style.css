@@ -46,7 +46,7 @@ input, label {
     column-count: 4;
     column-gap: 2vw;
     margin: 0 auto;
-    padding: 0;        
+    padding: 0;
     list-style: none;
 }
 
@@ -55,11 +55,9 @@ input, label {
     margin-bottom: 2vw;
 }
 
-/* --- OVERLAY SURVOL --- */
-
 .result-item {
     position: relative;
-    break-inside: avoid;   /* indispensable pour column-count */
+    break-inside: avoid;
 }
 
 .result-item img {
@@ -85,7 +83,7 @@ input, label {
     border-radius: 0.5em;
     transition: opacity 0.3s ease;
     padding: 1em;
-    pointer-events: none; 
+    pointer-events: none;
 }
 
 .result-item:hover .overlay {
@@ -100,7 +98,7 @@ input, label {
 
     body {
         margin: 0;
-        padding: 1em;    
+        padding: 0.25em;
         align-items: center;
     }
 
@@ -109,23 +107,73 @@ input, label {
     }
 
     input {
-        width: 85%;
+        width: 90%;
     }
 
     .search-container {
-        width: 100%;       
+        width: 100%;
     }
 
     .gallery {
         column-count: 1;
         column-gap: 1em;
+        margin: 0 0.5em;
+        width: 90%;
+    }
+
+    .result-item {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        gap: 0.8em;
+        margin-bottom: 1.5em;
+    }
+
+    .result-item a {
+        display: block;
+        width: 33%;
+        flex-shrink: 0;
+    }
+
+    .result-item img {
+        width: 100%;
+        height: auto;
+        display: block;
+        border-radius: 0.5em;
+    }
+
+    .result-item .overlay {
+        display: block;
+        width: 67%;
+        position: static;
+        opacity: 1;
+        background: none;
+        color: black;
+        padding: 0;
+        pointer-events: auto;
+        font-size: 0.9em;
+    }
+
+    .result-item:hover .overlay {
+        opacity: 1;
+    }
+
+    p {
+        font-size: 0.5em;
+        margin: 0;
+    }
+
+    .title {
+        display: block;
+        font-size: 0.5em;
+        text-decoration: underline;
+        margin-bottom: 0.2em;
     }
 
     .petitspace {
         height: 1em;
     }
 }
-
 
 footer {
     background-color: #FF66C4;
