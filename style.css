@@ -28,7 +28,7 @@ p {
     margin: 0 5em;
     padding: 0;
 }
-.screen{
+.screen, .screen2{
     min-height:100dvh;
     display: flex;
     align-items: center; 
@@ -96,6 +96,9 @@ img{
         margin-bottom: 0.5em;
         margin-left: 2em;
         margin-right: 2em;
+    }
+    .screen2{
+        min-height:110dvh;
     }
     .columns {
         padding: 0;
