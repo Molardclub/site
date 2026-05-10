@@ -172,6 +172,7 @@ input, label {
         font-size: 0.75em;
         text-decoration: underline;
         margin-bottom: 0.2em;
+        color: black;
     }
     .petitspace {
         height: 1em;
