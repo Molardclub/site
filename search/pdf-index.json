@@ -3,7 +3,9 @@
         "title": "MiniZine 3",
         "author": "Margaux Wiersch",
         "file": "http://molardclub.fr/publications/molard9/MiniZine-3_Margaux-Wiersch.pdf",
-        "tags": ["fanzine"],
+        "tags": [
+            "fanzine"
+        ],
         "month": "Mai",
         "year": 2025
     },
@@ -11,7 +13,10 @@
         "title": "Desert Hears",
         "author": "COQUELICOQUIN",
         "file": "http://molardclub.fr/publications/molard9/Desert-Hears_COQUELICOQUIN.pdf",
-        "tags": ["cinéma", "lesbienne"],
+        "tags": [
+            "cinéma",
+            "lesbienne"
+        ],
         "month": "Mai",
         "year": 2025
     },
@@ -19,7 +24,11 @@
         "title": "Les vêtements ont un genre et i(e)ls transitionnent régulièrement",
         "author": "Homosexuel de la capitale",
         "file": "http://molardclub.fr/publications/molard9/Les-vêtements-ont-un-genre-et-i(e)ls-transitionnent-régulièrement_Homosexuel-de-la-capitale.pdf",
-        "tags": ["vêtement", "mode", "genre"],
+        "tags": [
+            "vêtement",
+            "mode",
+            "genre"
+        ],
         "month": "Mai",
         "year": 2025
     },
@@ -27,7 +36,9 @@
         "title": "Mistral",
         "author": "Cassiopée Hennebert-Ferrand",
         "file": "http://molardclub.fr/publications/molard9/Mistral_Cassiopée-Hennebert---Ferrand.pdf",
-        "tags": ["poésie"],
+        "tags": [
+            "poésie"
+        ],
         "month": "Mai",
         "year": 2025
     },
@@ -35,7 +46,10 @@
         "title": "Revendiquer l'ingratitude",
         "author": "Enfants de bourgeois",
         "file": "http://molardclub.fr/publications/molard9/Revendiquer-l'ingratitude_Enfants-de-bourgeois.pdf",
-        "tags": ["fiction", "capitalisme"],
+        "tags": [
+            "fiction",
+            "capitalisme"
+        ],
         "month": "Mai",
         "year": 2025
     },
@@ -83,7 +97,9 @@
         "title": "Je déteste ton orchidée connard",
         "author": "Opération Scorpion",
         "file": "http://molardclub.fr/publications/molard6/Je-déteste-ton-orchidée-connard_Opération-Scorpion.pdf",
-        "tags": ["poésie"],
+        "tags": [
+            "poésie"
+        ],
         "month": "Février",
         "year": 2025
     },
@@ -91,7 +107,11 @@
         "title": "Ces ploucs pensent que mal s'habiller est une forme de résistance à la superficialité de la mode",
         "author": "Homosexuel de la capitale",
         "file": "http://molardclub.fr/publications/molard6/Ces-ploucs-pensent-que-mal-s'habiller-est-une-forme-de-résistance-à-la-superficialité-de-la-mode_Homosexuel-de-la-capitale.pdf",
-        "tags": ["mode", "vêtement", "capitalisme"],
+        "tags": [
+            "mode",
+            "vêtement",
+            "capitalisme"
+        ],
         "month": "Février",
         "year": 2025
     },
@@ -99,7 +119,9 @@
         "title": "Molard Club célèbre l'Amour (subversif et révolutionnaire)",
         "author": "Molard Club la rédaction",
         "file": "http://molardclub.fr/publications/molard6/Molard-Club-célèbre-l'Amour-(subversif-et-révolutionnaire)_Molard-Club-la-rédaction.pdf",
-        "tags": ["amour"],
+        "tags": [
+            "amour"
+        ],
         "month": "Février",
         "year": 2025
     },
@@ -107,7 +129,11 @@
         "title": "Ange I - Playlist",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard6/Ange---Playlist_Michel-Fauxcul.pdf",
-        "tags": ["poésie", "musique", "playlist"],
+        "tags": [
+            "poésie",
+            "musique",
+            "playlist"
+        ],
         "month": "Février",
         "year": 2025
     },
@@ -115,7 +141,12 @@
         "title": "Récit au coeur du FLNJ ou l'importance de l'utopie politique",
         "author": "Margaux Wiersch",
         "file": "http://molardclub.fr/publications/molard12/Récit-au-coeur-du-FLNJ-ou-l'importance-de-l'utopie-politique_Margaux-Wiersch.pdf",
-        "tags": ["utopie", "politique", "nain de jardin", "extrême droite"],
+        "tags": [
+            "utopie",
+            "politique",
+            "nain de jardin",
+            "extrême droite"
+        ],
         "month": "Août",
         "year": 2025
     },
@@ -123,7 +154,10 @@
         "title": "Mme Snob, la critique d'art, épisode 1",
         "author": "MW",
         "file": "http://molardclub.fr/publications/molard12/Mme-Snob,-la-critique-d'art-1_MW.pdf",
-        "tags": ["bd", "bande dessinée"],
+        "tags": [
+            "bd",
+            "bande dessinée"
+        ],
         "month": "Août",
         "year": 2025
     },
@@ -131,7 +165,9 @@
         "title": "Poster Molard Club 2025",
         "author": "Clyde Louis-Joseph-Dogué",
         "file": "http://molardclub.fr/publications/molard12/Poster-Molard-Club-2025_Clyde-Louis---Joseph---Dogué.pdf",
-        "tags": ["poster"],
+        "tags": [
+            "poster"
+        ],
         "month": "Août",
         "year": 2025
     },
@@ -139,7 +175,9 @@
         "title": "A-t-il pleuré",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard12/A-t-il-pleuré_Michel-Fauxcul.pdf",
-        "tags": ["poésie"],
+        "tags": [
+            "poésie"
+        ],
         "month": "Août",
         "year": 2025
     },
@@ -147,7 +185,9 @@
         "title": "Le Kit de rentrée de Molard Club",
         "author": "Vilaine Charmeur",
         "file": "http://molardclub.fr/publications/molard12/Le-kit-de-rentrée-de-Molard-Club_Vilaine-Charmeur.pdf",
-        "tags": ["jeu"],
+        "tags": [
+            "jeu"
+        ],
         "month": "Août",
         "year": 2025
     },
@@ -155,7 +195,12 @@
         "title": "Lionel Soukaz est mort",
         "author": "Rebeko Warning",
         "file": "http://molardclub.fr/publications/molard7/Lionel-Soukaz-est-mort_Rebeko-Warning.pdf",
-        "tags": ["nécrologie", "sida", "act-up", "cinéma"],
+        "tags": [
+            "nécrologie",
+            "sida",
+            "act-up",
+            "cinéma"
+        ],
         "month": "Mars",
         "year": 2025
     },
@@ -163,7 +208,10 @@
         "title": "Sexe et Violence, Désir et Misandrie, Étude des clips de Mylène Farmer",
         "author": "Tristana",
         "file": "http://molardclub.fr/publications/molard7/Sexe-et-Violence,-Désir-et-Misandrie,-Étude-des-clips-de-Mylène-Farmer_Tristana.pdf",
-        "tags": ["Mylène Farmer", "clips"],
+        "tags": [
+            "Mylène Farmer",
+            "clips"
+        ],
         "month": "Mars",
         "year": 2025
     },
@@ -171,7 +219,9 @@
         "title": "Ange II - Vidéo",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard7/Ange-II---Vidéo_Michel-Fauxcul.pdf",
-        "tags": ["poésie"],
+        "tags": [
+            "poésie"
+        ],
         "month": "Mars",
         "year": 2025
     },
@@ -179,7 +229,9 @@
         "title": "You don't understand",
         "author": "EMAGLAMOUR",
         "file": "http://molardclub.fr/publications/molard7/You-don't-understand_EMAGLAMOUR.pdf",
-        "tags": ["fanzine"],
+        "tags": [
+            "fanzine"
+        ],
         "month": "Mars",
         "year": 2025
     },
@@ -187,7 +239,10 @@
         "title": "Ce n'est pas l'homosexuel qui est pervers mais la société dans laquelle il vit, tentative de traduction et fragments théoriques",
         "author": "BGDC",
         "file": "http://molardclub.fr/publications/molard7/Ce-n'est-pas-l'homosexuel-qui-est-pervers_BGDC.pdf",
-        "tags": ["cinéma", "homosexuel"],
+        "tags": [
+            "cinéma",
+            "homosexuel"
+        ],
         "month": "Mars",
         "year": 2025
     },
@@ -195,7 +250,9 @@
         "title": "Roses mortes",
         "author": "MW",
         "file": "http://molardclub.fr/publications/molard13/Roses-mortes_MW.pdf",
-        "tags": ["poster"],
+        "tags": [
+            "poster"
+        ],
         "month": "Septembre",
         "year": 2025
     },
@@ -203,7 +260,9 @@
         "title": "Peau contre peau",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard13/Peau-contre-peau_Michel-Fauxcul.pdf",
-        "tags": ["poésie"],
+        "tags": [
+            "poésie"
+        ],
         "month": "Septembre",
         "year": 2025
     },
@@ -211,7 +270,11 @@
         "title": "Le quinze octobre deux mille vingt cinq au badaboum, une icône est née - Compte-rendu du concert anniversaire de Tony Zola",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard13/Compte-rendu-du-concert-anniversaire-de-Tony-Zola_Michel-Fauxcul.pdf",
-        "tags": ["icone", "musique", "concert"],
+        "tags": [
+            "icone",
+            "musique",
+            "concert"
+        ],
         "month": "Septembre",
         "year": 2025
     },
@@ -219,7 +282,10 @@
         "title": "DONNA GOTTSCHALK NOUS REGARDE",
         "author": "Rebeko Warning",
         "file": "http://molardclub.fr/publications/molard13/DONNA-GOTTSCHALK-NOUS-REGARDE_Rebeko-Warning.pdf",
-        "tags": ["photographie", "lesbienne"],
+        "tags": [
+            "photographie",
+            "lesbienne"
+        ],
         "month": "Septembre",
         "year": 2025
     },
@@ -227,7 +293,12 @@
         "title": "Les hétérosexuels veulent ma bite et je ne suis même pas trans !",
         "author": "BGDC",
         "file": "http://molardclub.fr/publications/molard13/Les-hétérosexuels-veulent-ma-bite_BGDC.pdf",
-        "tags": ["pd", "pédé", "homosexuel", "transidentité"],
+        "tags": [
+            "pd",
+            "pédé",
+            "homosexuel",
+            "transidentité"
+        ],
         "month": "Septembre",
         "year": 2025
     },
@@ -235,7 +306,10 @@
         "title": "Moi, je n'ai pas peur des araignées",
         "author": "Margaux Wiersch",
         "file": "http://molardclub.fr/publications/molard11/Moi,-je-n'ai-pas-peur-des-araignées_Margaux-Wiersch.pdf",
-        "tags": ["féminisme", "art"],
+        "tags": [
+            "féminisme",
+            "art"
+        ],
         "month": "Juillet",
         "year": 2025
     },
@@ -243,7 +317,12 @@
         "title": "Seuil de discrétion à respecter",
         "author": "BGDC",
         "file": "http://molardclub.fr/publications/molard11/Seuil-de-discrétion-à-respecter_BGDC.pdf",
-        "tags": ["homophobie", "fascisme", "autofiction", "extrême droite"],
+        "tags": [
+            "homophobie",
+            "fascisme",
+            "autofiction",
+            "extrême droite"
+        ],
         "month": "Juillet",
         "year": 2025
     },
@@ -251,7 +330,9 @@
         "title": "So quiet",
         "author": "Cassiopée Hennebert-Ferrand",
         "file": "http://molardclub.fr/publications/molard11/So-quiet_Cassiopée-Hennebert---Ferrand.pdf",
-        "tags": ["fanzine"],
+        "tags": [
+            "fanzine"
+        ],
         "month": "Juillet",
         "year": 2025
     },
@@ -259,7 +340,9 @@
         "title": "Molards mélés molards fléchés",
         "author": "Opération Scorpion",
         "file": "http://molardclub.fr/publications/molard11/Molards-mélés-molards-fléchés_Opération-Scorpion.pdf",
-        "tags": ["jeu"],
+        "tags": [
+            "jeu"
+        ],
         "month": "Juillet",
         "year": 2025
     },
@@ -267,7 +350,9 @@
         "title": "Félin Furieux Acte I : DJ Fauxcul La Naissance",
         "author": "DJ Fauxcul",
         "file": "http://molardclub.fr/publications/molard11/Félin-Furieux-Acte-I-:-DJ-Fauxcul-La-Naissance_DJ-Fauxcul.pdf",
-        "tags": ["dj set"],
+        "tags": [
+            "dj set"
+        ],
         "month": "Juillet",
         "year": 2025
     },
@@ -275,7 +360,10 @@
         "title": "Horoscope de l'été",
         "author": "Coquelicoquin",
         "file": "http://molardclub.fr/publications/molard11/Horoscope-de-l'été_Coquelicoquin.pdf",
-        "tags": ["cinéma", "horoscope"],
+        "tags": [
+            "cinéma",
+            "horoscope"
+        ],
         "month": "Juillet",
         "year": 2025
     },
@@ -283,7 +371,12 @@
         "title": "YOUR SEX IDOLL",
         "author": "Cassiopée Hennebert-Ferrand",
         "file": "http://molardclub.fr/publications/molard4/YOUR-SEX-IDOLL_Cassiopée-Hennebert---Ferrand.pdf",
-        "tags": ["sexualité", "genre", "male gaze", "cyborg"],
+        "tags": [
+            "sexualité",
+            "genre",
+            "male gaze",
+            "cyborg"
+        ],
         "month": "Décembre",
         "year": 2024
     },
@@ -291,7 +384,12 @@
         "title": "Kevin-Gael",
         "author": "BGDC",
         "file": "http://molardclub.fr/publications/molard4/Kevin-Gael_BGDC.pdf",
-        "tags": ["pédé", "pd", "homosexualité", "fiction"],
+        "tags": [
+            "pédé",
+            "pd",
+            "homosexualité",
+            "fiction"
+        ],
         "month": "Décembre",
         "year": 2024
     },
@@ -299,7 +397,11 @@
         "title": "Edmond Fastcar est mort (2057) Acte I : Le God Bless",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard4/Edmond-Fastcar-est-mort-(2057)-Acte-I-:-Le-God-Bless_Michel-Fauxcul.pdf",
-        "tags": ["tour montparnasse", "poésie", "fiction"],
+        "tags": [
+            "tour montparnasse",
+            "poésie",
+            "fiction"
+        ],
         "month": "Décembre",
         "year": 2024
     },
@@ -307,7 +409,10 @@
         "title": "Pourquoi la grosse bagnole de Dominic Toretto est (presque) plus camp que toi",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard4/Pourquoi-la-grosse-bagnole-de-Dominic-Toretto-est-(presque)-plus-camp-que-toi_Michel-Fauxcul.pdf",
-        "tags": ["fast & furious", "camp"],
+        "tags": [
+            "fast & furious",
+            "camp"
+        ],
         "month": "Décembre",
         "year": 2024
     },
@@ -315,7 +420,9 @@
         "title": "J'ai laissé des affaires traîner chez toi",
         "author": "Margaux Wiersch",
         "file": "http://molardclub.fr/publications/molard4/J'ai-laissé-des-affaires-traîner-chez-toi_Margaux-Wiersch.pdf",
-        "tags": ["poster"],
+        "tags": [
+            "poster"
+        ],
         "month": "Décembre",
         "year": 2024
     },
@@ -323,7 +430,10 @@
         "title": "Pourquoi Gabriel Attal n'est pas homosexuel",
         "author": "BGDC",
         "file": "http://molardclub.fr/publications/molard5/Pourquoi-Gabriel-Attal-n'est-pas-homosexuel_BGDC.pdf",
-        "tags": ["politique", "homosexualité"],
+        "tags": [
+            "politique",
+            "homosexualité"
+        ],
         "month": "Janvier",
         "year": 2025
     },
@@ -331,7 +441,9 @@
         "title": "La mouette",
         "author": "Margaux Wiersch",
         "file": "http://molardclub.fr/publications/molard5/La-mouette_Margaux-Wiersch.pdf",
-        "tags": ["poésie"],
+        "tags": [
+            "poésie"
+        ],
         "month": "Janvier",
         "year": 2025
     },
@@ -339,7 +451,10 @@
         "title": "MiniZine 2",
         "author": "Margaux Wiersch",
         "file": "http://molardclub.fr/publications/molard5/MiniZine-2_Margaux-Wiersch.pdf",
-        "tags": ["fanzine", "poésie"],
+        "tags": [
+            "fanzine",
+            "poésie"
+        ],
         "month": "Janvier",
         "year": 2025
     },
@@ -347,7 +462,11 @@
         "title": "Edmond Fastcar est mort (2057) Acte II : JOURS D'AUTOMNE",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard5/Edmond-Fastcar-est-mort-(2057)-Acte-II-:-JOURS-D'AUTOMNE_Michel-Fauxcul.pdf",
-        "tags": ["tour montparnasse", "poésie", "fiction"],
+        "tags": [
+            "tour montparnasse",
+            "poésie",
+            "fiction"
+        ],
         "month": "Janvier",
         "year": 2025
     },
@@ -355,7 +474,9 @@
         "title": "PARTYSTAR & KetamineBoyfriend L’aparté",
         "author": "PARTYSTAR",
         "file": "http://molardclub.fr/publications/molard5/PARTYSTAR-et-KetamineBoyfriend-L’aparté_PARTYSTAR.pdf",
-        "tags": ["poésie"],
+        "tags": [
+            "poésie"
+        ],
         "month": "Janvier",
         "year": 2025
     },
@@ -403,7 +524,10 @@
         "title": "Minizine 1",
         "author": "Margaux Wiersch",
         "file": "http://molardclub.fr/publications/molard1/Minizine-1_Margaux-Wiersch.pdf",
-        "tags": ["fanzine", "poésie"],
+        "tags": [
+            "fanzine",
+            "poésie"
+        ],
         "month": "Septembre",
         "year": 2024
     },
@@ -411,7 +535,11 @@
         "title": "Prendre soin L'énième échec masculin",
         "author": "Tristana",
         "file": "http://molardclub.fr/publications/molard1/Prendre-soin-L'énième-échec-masculin_Tristana.pdf",
-        "tags": ["homme", "amitié", "hétérosexualité"],
+        "tags": [
+            "homme",
+            "amitié",
+            "hétérosexualité"
+        ],
         "month": "Septembre",
         "year": 2024
     },
@@ -419,7 +547,12 @@
         "title": "j'ai fait un enfant dans le dos de klein et c'est un enfant batardx",
         "author": "Margaux Wiersch",
         "file": "http://molardclub.fr/publications/molard1/j'ai-fait-un-enfant-dans-le-dos-de-klein-et-c'est-un-enfant-batardx_Margaux-Wiersch.pdf",
-        "tags": ["Deleuze ", "Yves Klein ", "empreinte ", "artiste" ],
+        "tags": [
+            "Deleuze ",
+            "Yves Klein ",
+            "empreinte ",
+            "artiste"
+        ],
         "month": "Septembre",
         "year": 2024
     },
@@ -427,7 +560,14 @@
         "title": "One of your girls À la conquête d'une soumission",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard1/One-of-your-girls-À-la-conquête-d'une-soumission_Michel-Fauxcul.pdf",
-        "tags": ["Troye Sivan", "genre", "pédé", "pop", "pd", "homosexualité"],
+        "tags": [
+            "Troye Sivan",
+            "genre",
+            "pédé",
+            "pop",
+            "pd",
+            "homosexualité"
+        ],
         "month": "Septembre",
         "year": 2024
     },
@@ -435,7 +575,12 @@
         "title": "PI Pas intéressée, parle à ma main. Esthetique catcalling : cas de harcèlement de rue dans les clips musicaux",
         "author": "Tristana",
         "file": "http://molardclub.fr/publications/molard14/PI-Pas-intéressée,-parle-à-ma-main_Tristana.pdf",
-        "tags": ["musique", "clip", "féminisme", "harcèlement de rue"],
+        "tags": [
+            "musique",
+            "clip",
+            "féminisme",
+            "harcèlement de rue"
+        ],
         "month": "Octobre",
         "year": 2025
     },
@@ -443,7 +588,11 @@
         "title": "Quel est ce fantôme qui m'habite ?",
         "author": "Kate B",
         "file": "http://molardclub.fr/publications/molard14/Quel-est-ce-fantôme-qui-m'habite_Kate-B.pdf",
-        "tags": ["maison", "féminisme", "horreur"],
+        "tags": [
+            "maison",
+            "féminisme",
+            "horreur"
+        ],
         "month": "Octobre",
         "year": 2025
     },
@@ -451,7 +600,10 @@
         "title": "Félin Furieux Acte II : Pas Chassés Sur L’Autoroute Du Kiff ",
         "author": "DJ Fauxcul",
         "file": "http://molardclub.fr/publications/molard14/Félin-Furieux-Acte-II_DJ-Fauxcul.pdf",
-        "tags": ["dj set", "musique"],
+        "tags": [
+            "dj set",
+            "musique"
+        ],
         "month": "Octobre",
         "year": 2025
     },
@@ -459,7 +611,10 @@
         "title": "Keep it together and try to keep this thing alive",
         "author": "BGDC",
         "file": "http://molardclub.fr/publications/molard14/Keep-it-together-and-try-to-keep-this-thing-alive_BGDC.pdf",
-        "tags": ["poésie", "musique"],
+        "tags": [
+            "poésie",
+            "musique"
+        ],
         "month": "Octobre",
         "year": 2025
     },
@@ -467,7 +622,9 @@
         "title": "Les sièges en cuir de la BMW série 3 M46 couleur noire fini brillant",
         "author": "Cassiopée Hennebert-Ferrand",
         "file": "http://molardclub.fr/publications/molard14/Les-sièges-en-cuir-de-la-BMW-série-3-M46-couleur-noire-fini-brillant_Cassiopée-Hennebert---Ferrand.pdf",
-        "tags": ["poésie"],
+        "tags": [
+            "poésie"
+        ],
         "month": "Octobre",
         "year": 2025
     },
@@ -475,7 +632,13 @@
         "title": "Twinks et bibliothèques",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard8/Twinks-et-bibliothèques_Michel-Fauxcul.pdf",
-        "tags": ["pd", "pédé", "homosexuel", "bilibothèque", "cruising"],
+        "tags": [
+            "pd",
+            "pédé",
+            "homosexuel",
+            "bilibothèque",
+            "cruising"
+        ],
         "month": "Avril",
         "year": 2025
     },
@@ -483,7 +646,10 @@
         "title": "L'histoire de Bobby et Janis Volume 2",
         "author": "PARTYSTAR",
         "file": "http://molardclub.fr/publications/molard8/L'histoire-de-Bobby-et-Janis-Volume-2_PARTYSTAR.pdf",
-        "tags": ["poésie", "musique"],
+        "tags": [
+            "poésie",
+            "musique"
+        ],
         "month": "Avril",
         "year": 2025
     },
@@ -491,7 +657,9 @@
         "title": "Un dieu jaloux",
         "author": "Clyde Louis-Joseph-Dogué",
         "file": "http://molardclub.fr/publications/molard8/Un-dieu-jaloux_Clyde-Louis---Joseph---Dogué.pdf",
-        "tags": ["poster"],
+        "tags": [
+            "poster"
+        ],
         "month": "Avril",
         "year": 2025
     },
@@ -499,7 +667,9 @@
         "title": "Ange III - Notice",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard8/Ange-3---Notice_Michel-Fauxcul.pdf",
-        "tags": ["poésie"],
+        "tags": [
+            "poésie"
+        ],
         "month": "Avril",
         "year": 2025
     },
@@ -507,7 +677,10 @@
         "title": "La meute",
         "author": "Opération Scorpion",
         "file": "http://molardclub.fr/publications/molard8/La-meute_Opération-Scorpion.pdf",
-        "tags": ["poésie", "révolte"],
+        "tags": [
+            "poésie",
+            "révolte"
+        ],
         "month": "Avril",
         "year": 2025
     },
@@ -547,7 +720,11 @@
         "title": "Te libérer sexuellement ne te sauvera pas de tes traumas BB",
         "author": "Tristana",
         "file": "http://molardclub.fr/publications/molard10/Te-libérer-sexuellement-ne-te-sauvera-pas-de-tes-traumas-BB_Tristana.pdf",
-        "tags": ["sexualité", "féminisme", "hétérosexualité"],
+        "tags": [
+            "sexualité",
+            "féminisme",
+            "hétérosexualité"
+        ],
         "month": "Juin",
         "year": 2025
     },
@@ -555,7 +732,9 @@
         "title": "ANTISOCIAL",
         "author": "Margaux Wiersch",
         "file": "http://molardclub.fr/publications/molard10/ANTISOCIAL_Margaux-Wiersch.pdf",
-        "tags": ["poster"],
+        "tags": [
+            "poster"
+        ],
         "month": "Juin",
         "year": 2025
     },
@@ -563,7 +742,9 @@
         "title": "Collage oh putain",
         "author": "Clyde Louis-Joseph-Dogué",
         "file": "http://molardclub.fr/publications/molard10/Collage-oh-putain_Clyde-Louis---Joseph---Dogué.pdf",
-        "tags": ["poster"],
+        "tags": [
+            "poster"
+        ],
         "month": "Juin",
         "year": 2025
     },
@@ -571,7 +752,9 @@
         "title": "Déjà plein",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard10/Déjà-plein_Michel-Fauxcul.pdf",
-        "tags": ["poésie"],
+        "tags": [
+            "poésie"
+        ],
         "month": "Juin",
         "year": 2025
     },
@@ -579,7 +762,10 @@
         "title": "Everyone Wants 2 B a Pornstar",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard10/Everyone-Wants-2-B-a-Pornstar_Michel-Fauxcul.pdf",
-        "tags": ["musique", "clips"],
+        "tags": [
+            "musique",
+            "clips"
+        ],
         "month": "Juin",
         "year": 2025
     },
@@ -587,7 +773,9 @@
         "title": "Déjeuner sur l'herbe",
         "author": "MW",
         "file": "http://molardclub.fr/publications/molard15/Déjeuner-sur-l'herbe_MW.pdf",
-        "tags": ["poster"],
+        "tags": [
+            "poster"
+        ],
         "month": "Novembre",
         "year": 2025
     },
@@ -595,7 +783,9 @@
         "title": "Love is stronger than death. De l’interdiction d’aimer, du choix de l’existence, de la beauté pédée. Lecture-fauxcul d’œuvres choisies",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard15/Love-is-stronger-than-death_Michel-Fauxcul.pdf",
-        "tags": [""],
+        "tags": [
+            ""
+        ],
         "month": "Novembre",
         "year": 2025
     },
@@ -603,7 +793,11 @@
         "title": "HORIZON 2030",
         "author": "BGDC",
         "file": "http://molardclub.fr/publications/molard15/HORIZON-2030_BGDC.pdf",
-        "tags": ["poster", "fascisme", "extrême droite"],
+        "tags": [
+            "poster",
+            "fascisme",
+            "extrême droite"
+        ],
         "month": "Novembre",
         "year": 2025
     },
@@ -611,7 +805,9 @@
         "title": "Le mur",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard15/Le-mur_Michel-Fauxcul.pdf",
-        "tags": ["poésie"],
+        "tags": [
+            "poésie"
+        ],
         "month": "Novembre",
         "year": 2025
     },
@@ -619,7 +815,9 @@
         "title": "Horoscope 2026",
         "author": "Coquelicoquin",
         "file": "http://molardclub.fr/publications/molard15/Horoscope-2026_Coquelicoquin.pdf",
-        "tags": ["cinéma"],
+        "tags": [
+            "cinéma"
+        ],
         "month": "Novembre",
         "year": 2025
     },
@@ -627,7 +825,12 @@
         "title": "Rivalité passionnée. Ce que la romance fait aux femmes et aux gays",
         "author": "Kate B",
         "file": "http://molardclub.fr/publications/molard16/Rivalité-passionnée_Kate-B.pdf",
-        "tags": ["homosexuel", "romance", "sexualité", "hétérosexualité"],
+        "tags": [
+            "homosexuel",
+            "romance",
+            "sexualité",
+            "hétérosexualité"
+        ],
         "month": "Décembre",
         "year": 2025
     },
@@ -635,7 +838,12 @@
         "title": "Ça svoit qt'es gay!",
         "author": "BGDC",
         "file": "http://molardclub.fr/publications/molard16/Ça-svoit-qt'es-gay!_BGDC.pdf",
-        "tags": ["homosexuel", "pd", "pédé", "poésie"],
+        "tags": [
+            "homosexuel",
+            "pd",
+            "pédé",
+            "poésie"
+        ],
         "month": "Décembre",
         "year": 2025
     },
@@ -643,7 +851,9 @@
         "title": "Longue litanie - Réflexion du silence et de ses boucles",
         "author": "PARTYSTAR",
         "file": "http://molardclub.fr/publications/molard16/Longue-litanie_PARTYSTAR.pdf",
-        "tags": ["poésie"],
+        "tags": [
+            "poésie"
+        ],
         "month": "Décembre",
         "year": 2025
     },
@@ -651,7 +861,9 @@
         "title": "Moijetaime",
         "author": "Michel Focus",
         "file": "http://molardclub.fr/publications/molard16/Moijetaime_Michel-Focus.pdf",
-        "tags": ["poster"],
+        "tags": [
+            "poster"
+        ],
         "month": "Décembre",
         "year": 2025
     },
@@ -659,7 +871,10 @@
         "title": "Plague Obsession",
         "author": "Soeur Fahy",
         "file": "http://molardclub.fr/publications/molard16/Plague-Obsession_Soeur-Fahy.pdf",
-        "tags": ["capitalisme", "poésie"],
+        "tags": [
+            "capitalisme",
+            "poésie"
+        ],
         "month": "Décembre",
         "year": 2025
     },
@@ -667,7 +882,10 @@
         "title": "I was once a hopful feminist kid",
         "author": "Margaux Wiersch",
         "file": "http://molardclub.fr/publications/molard2/I-was-once-a-hopful-feminist-kid_Margaux-Wiersch.pdf",
-        "tags": ["poster", "féminisme"],
+        "tags": [
+            "poster",
+            "féminisme"
+        ],
         "month": "Octobre",
         "year": 2024
     },
@@ -675,7 +893,13 @@
         "title": "Co2urs, poème en prose",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard2/co2urs,-poème-en-prose_Michel-Fauxcul.pdf",
-        "tags": ["poésie", "amour", "pd", "homosexualité", "pédé"],
+        "tags": [
+            "poésie",
+            "amour",
+            "pd",
+            "homosexualité",
+            "pédé"
+        ],
         "month": "Octobre",
         "year": 2024
     },
@@ -683,7 +907,9 @@
         "title": "Combien",
         "author": "Tristana",
         "file": "http://molardclub.fr/publications/molard2/Combien_Tristana.pdf",
-        "tags": ["poésie"],
+        "tags": [
+            "poésie"
+        ],
         "month": "Octobre",
         "year": 2024
     },
@@ -691,7 +917,13 @@
         "title": "XTREME MYLENE",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard2/XTREME-MYLENE_Michel-Fauxcul.pdf",
-        "tags": ["Mylène Farmer", "concert", "pop", "pd", "pédé"],
+        "tags": [
+            "Mylène Farmer",
+            "concert",
+            "pop",
+            "pd",
+            "pédé"
+        ],
         "month": "Octobre",
         "year": 2024
     },
@@ -699,7 +931,9 @@
         "title": "Tristesse, colère, sexe, amour et homosexualité : une analyse statistique de la discogrpahie de Mylène Farmer",
         "author": "Vilaine Charmeur",
         "file": "http://molardclub.fr/publications/molard2/Tristesse,-colère,-sexe,-amour-e-homosexualité-:-une-analyse-statistique-de-la-discogrpahie-de-Mylène-Farmer_Vilaine-Charmeur.pdf",
-        "tags": ["Mylène famer"],
+        "tags": [
+            "Mylène famer"
+        ],
         "month": "Octobre",
         "year": 2024
     },
@@ -707,7 +941,10 @@
         "title": "Marre marre marre",
         "author": "Tristana",
         "file": "http://molardclub.fr/publications/molard2/Marre-marre-marre_Tristana.pdf",
-        "tags": ["poésie", "révolte"],
+        "tags": [
+            "poésie",
+            "révolte"
+        ],
         "month": "Octobre",
         "year": 2024
     },
@@ -715,7 +952,9 @@
         "title": "L'histoire de Bobby et Janis Volume 1",
         "author": "PARTYSTAR",
         "file": "http://molardclub.fr/publications/molard3/L'histoire-de-Bobby-et-Janis-1_PARTYSTAR.pdf",
-        "tags": ["poésie"],
+        "tags": [
+            "poésie"
+        ],
         "month": "Novembre",
         "year": 2024
     },
@@ -723,7 +962,11 @@
         "title": "Recommence",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard3/Recommence_Michel-Fauxcul.pdf",
-        "tags": ["poésie", "amour", "tour montparnasse"],
+        "tags": [
+            "poésie",
+            "amour",
+            "tour montparnasse"
+        ],
         "month": "Novembre",
         "year": 2024
     },
@@ -731,7 +974,11 @@
         "title": "Twilf - le triangle de la beauté masculine",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard3/Twilf---le-triangle-de-la-beauté-masculine_Michel-Fauxcul.pdf",
-        "tags": ["Swann Arlaud", "DILF", "Twink"],
+        "tags": [
+            "Swann Arlaud",
+            "DILF",
+            "Twink"
+        ],
         "month": "Novembre",
         "year": 2024
     },
@@ -739,7 +986,9 @@
         "title": "Et une journée se termine sans avoir crié au loup",
         "author": "Tristana",
         "file": "http://molardclub.fr/publications/molard3/Et-une-journée-se-termine-sans-avoir-crié-au-loup_Tristana.pdf",
-        "tags": ["poésie"],
+        "tags": [
+            "poésie"
+        ],
         "month": "Novembre",
         "year": 2024
     },
@@ -747,7 +996,11 @@
         "title": "Je ne parle pas créole",
         "author": "CLYDE",
         "file": "http://molardclub.fr/publications/molard3/Je-ne-parle-pas-créole_CLYDE.pdf",
-        "tags": ["pasolini", "homosexualité", "décolonisation"],
+        "tags": [
+            "pasolini",
+            "homosexualité",
+            "décolonisation"
+        ],
         "month": "Novembre",
         "year": 2024
     },
@@ -755,8 +1008,51 @@
         "title": "123123123",
         "author": "Marcelle Prout",
         "file": "http://molardclub.fr/publications/molard3/123123123_Marcelle-Prout.pdf",
-        "tags": ["poésie", "expérimental"],
+        "tags": [
+            "poésie",
+            "expérimental"
+        ],
         "month": "Novembre",
         "year": 2024
+    },
+    {
+        "title": "De perles et de feu",
+        "author": "BGDC",
+        "file": "http://molardclub.fr/publications/molard20/De-perles-et-de-feu_BGDC.pdf",
+        "tags": [],
+        "month": "Mai",
+        "year": "2026"
+    },
+    {
+        "title": "Discussions de café",
+        "author": "MW",
+        "file": "http://molardclub.fr/publications/molard20/Discussions-de-café_MW.pdf",
+        "tags": [],
+        "month": "Mai",
+        "year": "2026"
+    },
+    {
+        "title": "La pute de LinkedIn",
+        "author": "Soeur Fahy",
+        "file": "http://molardclub.fr/publications/molard20/La-pute-de-LinkedIn_Soeur-Fahy.pdf",
+        "tags": [],
+        "month": "Mai",
+        "year": "2026"
+    },
+    {
+        "title": "Lapidaire",
+        "author": "M&M",
+        "file": "http://molardclub.fr/publications/molard20/Lapidaire_M&M.pdf",
+        "tags": [],
+        "month": "Mai",
+        "year": "2026"
+    },
+    {
+        "title": "REFLEXIONS SUR LA QUESTION BI",
+        "author": "Karla Poppers",
+        "file": "http://molardclub.fr/publications/molard20/REFLEXIONS-SUR-LA-QUESTION-BI_Karla-Poppers.pdf",
+        "tags": [],
+        "month": "Mai",
+        "year": "2026"
     }
 ]
