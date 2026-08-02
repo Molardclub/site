@@ -4,7 +4,8 @@
     "Year": "2026",
 
     "layout": [
-        ["petit", "moyen", "petit", "petit"]
+        ["moyen", "moyen", "moyen"], 
+        ["petit", "petit"]
     ]
 }
 
