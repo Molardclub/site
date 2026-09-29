@@ -10,6 +10,17 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <nav id="topbar">
+        <button id="burger" aria-label="Ouvrir le menu"> ☰ </button>
+        <ul>
+            <li><a href="a_propos"><img class="logo" src="logo.png"></a></li>
+            <li><a href="search/"><img class="logo" src="icones/loupe.png">Bibliothèque</a></li>
+            <li><a href="publications/publications.html"><img class="logo" src="icones/livre.png">Publications</a></li>
+            <li><a href="evenements"><img class="logo" src="icones/calendrier.png">Événements</a></li>
+            <li><a href="newsletter.html"><img class="logo" src="icones/lettre.png">Newsletter</a></li>
+        </ul>
+    </nav>
+    
     <main>
         <div class="screen">
             <div class="container">
@@ -18,38 +29,43 @@
             </div>
         </div>
         <div class="screen2">
+            <div class="petitspace"></div>
             <div class="columns">
                 <div class="column">
-                    <h3>Molard Club</h3>
-                    <p>Molard club est un WebZine pour toustes les enragées qui du fond de leurs poumons, ont des choses à cracher. </p>
-                    <p>Écrire, dessiner, réciter, filmer nos histoires et les partager, c'est l'objectif. Nous voulons créer un récit qui nous ressemble, loin du capitalisme patriarcal et de l'hétéronormativité cisgenre.</p>
-                    <p>On crache à la gueule des grands de ce monde, ici on crée pour ceux qui ne sont rien et qui aiment ça.</p>
-                    <div class="petitspace"></div>
-                    <p>Bienvenue au MOLARD Club !</p>
+                    <h3>MOLARD CLUB</h3>
+                    <div class="containerbis">
+                        <p>Bienvenue sur Molard Club, collectif et webzine queer-féministe. Une fois par mois, nous crachons un Molard électronique, composé de quatre productions mêlant humour, poésie, recherche et politique.</p>
+                        <div class="petitspace"></div>
+                        <p>Nous participons également à des salons de micro-édition, où nous présentons des productions imprimées et autres bibelots culottés.</p>
+                        <div class="petitspace"></div>
+                        <p>Chez Molard, on crache à la gueule des grands de ce monde : ici on crée pour ceux qui ne sont rien et qui aiment ça.</p>
+                    </div>
                 </div>
                 <div class="column">
-                    <div class="container">
-                        <ul>
-                            <li><a href="publications/publications.html">Nos publications</a></li>
-                            <li><a href="evenements">Nos événements</a></li>
-                        </ul>
-                    </div>
-                    <div class="petitspace"></div>
-                    <img src="accueil.png">
-                    <div class="petitspace"></div>
-                    <div class="container">
-                        <ul>
-                            <li><a href="a_propos">À propos</a></li>
-                            <li><a href="search/">La bibliothèque</a></li>
-                            <li><a href="newsletter.html">Newsletter</a></li>
-                        </ul>
-                        
+                    <div class="containerter">
+                        <img src="poster.jpg">
                     </div>
                 </div>
+                <div class="moyenspace"></div>
             </div>
-            <div class="moyenspace"></div>
         </div>
     </main>
     <footer> &copy; 2026 Molard Club </footer>
+    <script>
+    const topbar = document.getElementById("topbar");
+    const burger = document.getElementById("burger");
+
+    window.addEventListener("scroll", () => {
+        if (window.scrollY >= window.innerHeight) {
+            topbar.classList.add("visible");
+        } else {
+            topbar.classList.remove("visible");
+        }
+    });
+
+    burger.addEventListener("click", () => {
+        topbar.classList.toggle("open");
+    });
+</script>
 </body>
 </html>

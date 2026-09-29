@@ -20,28 +20,30 @@ h1 {
     text-align: left;
 }
 .container {
-    width: 85dvw;
+    width: 95dvw;
 }
 .columns {
     display: grid;
-    grid-template-columns: 1.1fr 0.9fr;
+    grid-template-columns: 1fr 1fr;
     box-sizing: border-box; 
     align-items: center; 
 }
 .column {
     flex-direction: column;
     justify-content: center;
-    padding: 1em;
+    padding: 0;
+    margin: 0;
 }
 p {
     font-size: 1.1em;
-    margin-bottom: 0.5em;
-    padding: 0;
-    padding-right: 14em;
+    margin: 0 1em;
+    padding-bottom: 1em;
 }
 img {
-    padding-left: 1em;
-    width: 80%;
+    padding-top: 1em;
+    width: 100%;
+    object-fit: contain;
+
 }
 .petitspace{
     height: 5em;
@@ -53,9 +55,10 @@ img {
         font-size: 1.5em;
     }
     p {
-        font-size: 0.9em;
+        font-size: 0.75em;
         margin: 0;
         padding: 0;
+        padding-bottom: 1em;
     }
     .container {
         width: 100dvw;
