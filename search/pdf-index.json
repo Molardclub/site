@@ -21,16 +21,6 @@
         "year": 2025
     },
     {
-        "title": "Mistral",
-        "author": "Cassiopée Hennebert-Ferrand",
-        "file": "http://molardclub.fr/publications/molard9/Mistral_Cassiopée-Hennebert---Ferrand.pdf",
-        "tags": [
-            "poésie"
-        ],
-        "month": "Mai",
-        "year": 2025
-    },
-    {
         "title": "Partystar",
         "author": "MW",
         "file": "http://molardclub.fr/publications/molard19/Partystar_MW.pdf",
@@ -61,16 +51,6 @@
         "tags": [],
         "month": "Mars",
         "year": 2026
-    },
-    {
-        "title": "Je déteste ton orchidée connard",
-        "author": "Opération Scorpion",
-        "file": "http://molardclub.fr/publications/molard6/Je-déteste-ton-orchidée-connard_Opération-Scorpion.pdf",
-        "tags": [
-            "poésie"
-        ],
-        "month": "Février",
-        "year": 2025
     },
     {
         "title": "Molard Club célèbre l'Amour (subversif et révolutionnaire)",
@@ -237,26 +217,6 @@
         "year": 2025
     },
     {
-        "title": "So quiet",
-        "author": "Cassiopée Hennebert-Ferrand",
-        "file": "http://molardclub.fr/publications/molard11/So-quiet_Cassiopée-Hennebert---Ferrand.pdf",
-        "tags": [
-            "fanzine"
-        ],
-        "month": "Juillet",
-        "year": 2025
-    },
-    {
-        "title": "Molards mélés molards fléchés",
-        "author": "Opération Scorpion",
-        "file": "http://molardclub.fr/publications/molard11/Molards-mélés-molards-fléchés_Opération-Scorpion.pdf",
-        "tags": [
-            "jeu"
-        ],
-        "month": "Juillet",
-        "year": 2025
-    },
-    {
         "title": "Félin Furieux Acte I : DJ Fauxcul La Naissance",
         "author": "DJ Fauxcul",
         "file": "http://molardclub.fr/publications/molard11/Félin-Furieux-Acte-I-:-DJ-Fauxcul-La-Naissance_DJ-Fauxcul.pdf",
@@ -276,19 +236,6 @@
         ],
         "month": "Juillet",
         "year": 2025
-    },
-    {
-        "title": "YOUR SEX IDOLL",
-        "author": "Cassiopée Hennebert-Ferrand",
-        "file": "http://molardclub.fr/publications/molard4/YOUR-SEX-IDOLL_Cassiopée-Hennebert---Ferrand.pdf",
-        "tags": [
-            "sexualité",
-            "genre",
-            "male gaze",
-            "cyborg"
-        ],
-        "month": "Décembre",
-        "year": 2024
     },
     {
         "title": "Edmond Fastcar est mort (2057) Acte I : Le God Bless",
@@ -365,14 +312,6 @@
         ],
         "month": "Janvier",
         "year": 2025
-    },
-    {
-        "title": "B E D R O T",
-        "author": "Cassiopée Hennebert-Ferrand",
-        "file": "http://molardclub.fr/publications/molard18/B-E-D-R-O-T_Cassiopée-Hennebert---Ferrand.pdf",
-        "tags": [],
-        "month": "Février",
-        "year": 2026
     },
     {
         "title": "En attendant l'été",
@@ -486,16 +425,6 @@
         "year": 2025
     },
     {
-        "title": "Les sièges en cuir de la BMW série 3 M46 couleur noire fini brillant",
-        "author": "Cassiopée Hennebert-Ferrand",
-        "file": "http://molardclub.fr/publications/molard14/Les-sièges-en-cuir-de-la-BMW-série-3-M46-couleur-noire-fini-brillant_Cassiopée-Hennebert---Ferrand.pdf",
-        "tags": [
-            "poésie"
-        ],
-        "month": "Octobre",
-        "year": 2025
-    },
-    {
         "title": "Twinks et bibliothèques",
         "author": "Michel Fauxcul",
         "file": "http://molardclub.fr/publications/molard8/Twinks-et-bibliothèques_Michel-Fauxcul.pdf",
@@ -526,17 +455,6 @@
         "file": "http://molardclub.fr/publications/molard8/Ange-3---Notice_Michel-Fauxcul.pdf",
         "tags": [
             "poésie"
-        ],
-        "month": "Avril",
-        "year": 2025
-    },
-    {
-        "title": "La meute",
-        "author": "Opération Scorpion",
-        "file": "http://molardclub.fr/publications/molard8/La-meute_Opération-Scorpion.pdf",
-        "tags": [
-            "poésie",
-            "révolte"
         ],
         "month": "Avril",
         "year": 2025
